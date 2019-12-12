@@ -1,0 +1,5457 @@
+{
+    "status": {
+        "last_change": "2019-11-21T02:43:08+00:00",
+        "value": "ONLINE"
+    },
+    "display_name": "Magri",
+    "creation_time": "2019-05-09T01:13:06+00:00",
+    "id": 250758,
+    "version": {
+        "agent": "2.7.5-b004",
+        "package": "2.4.4-0064"
+    },
+    "licence": {
+        "bound_mac_address": "B8:27:EB:B2:0A:C6",
+        "code": "FE7F-86ED-7B24-D0AA-607F-2F25-4B56-D048",
+        "type": "SUBSCRIPTION",
+        "id": 78204,
+        "activation_time": "2019-05-09T01:13:07+00:00"
+    },
+    "timezone": "Australia/Melbourne",
+    "access_right": {
+        "status": "OWNED",
+        "api_enabled": true
+    }
+},
+{
+    "status": {
+        "last_change": "2019-11-21T13:28:20+00:00",
+        "value": "ONLINE"
+    },
+    "display_name": "3 Avalon",
+    "creation_time": "2019-06-28T01:47:37+00:00",
+    "id": 252539,
+    "version": {
+        "agent": "2.7.5-b004",
+        "package": "2.4.5-0064"
+    },
+    "licence": {
+        "bound_mac_address": "B8:27:EB:40:B5:76",
+        "code": "1966-16B8-EAD5-FBD4-2D94-FF97-95CF-D2EC",
+        "type": "SUBSCRIPTION",
+        "id": 80034,
+        "activation_time": "2019-06-28T01:47:37+00:00"
+    },
+    "timezone": "Australia/Melbourne",
+    "access_right": {
+        "status": "OWNED",
+        "api_enabled": true
+    }
+},
+{
+    "status": {
+        "last_change": "2019-11-21T03:46:55+00:00",
+        "value": "ONLINE"
+    },
+    "display_name": "Bambra",
+    "creation_time": "2019-09-16T06:03:34+00:00",
+    "id": 255199,
+    "version": {
+        "agent": "2.7.5-b004",
+        "package": "2.5.0-0022"
+    },
+    "licence": {
+        "bound_mac_address": "B8:27:EB:95:B1:99",
+        "code": "34AE-7234-B202-3315-65E2-EAB0-DDF1-5878",
+        "type": "SUBSCRIPTION",
+        "id": 82770,
+        "activation_time": "2019-09-16T06:03:34+00:00"
+    },
+    "timezone": "Australia/Melbourne",
+    "access_right": {
+        "status": "OWNED",
+        "api_enabled": true
+    }
+}
+
+/*************************************************************************/
+
+{
+    "status": "ONLINE",
+    "grace_period": 120,
+    "display_name": "Connect /Shed/",
+    "first_seen_on": "2019-05-09T01:13:34+00:00",
+    "importance": "VITAL",
+    "ip_addresses": [
+        "192.168.0.201"
+    ],
+    "hw_address": "00:0E:58:25:FB:6E",
+    "user_data": {
+        "name": "Connect /Shed/"
+    },
+    "vendor": "Sonos, Inc.",
+    "is_jammed": false,
+    "last_status_change": "2019-11-21T06:25:45+00:00",
+    "agent_reachable": true,
+    "names": {
+        "dhcp": "SonosZP",
+        "host": "",
+        "inspection": "Connect /Shed/",
+        "bonjour": "sonos000E5825FB6E",
+        "upnp": "Sonos Connect"
+    },
+    "protocol": "IP",
+    "model": "sonos connect",
+    "type": {
+        "detected_id": 228,
+        "id": 21
+    },
+    "id": 3482258
+},
+{
+    "status": "ONLINE",
+    "grace_period": 120,
+    "display_name": "Sonos Bridge",
+    "first_seen_on": "2019-05-09T01:13:34+00:00",
+    "importance": "VITAL",
+    "ip_addresses": [
+        "192.168.0.200"
+    ],
+    "hw_address": "00:0E:58:4F:F2:BC",
+    "user_data": {
+        "name": "Sonos Bridge"
+    },
+    "vendor": "Sonos, Inc.",
+    "is_jammed": false,
+    "last_status_change": "2019-11-21T06:25:45+00:00",
+    "agent_reachable": true,
+    "names": {
+        "dhcp": "SonosZB",
+        "host": "SonosZB.localdomain",
+        "inspection": "Bridge /BRIDGE/",
+        "upnp": "Sonos Bridge"
+    },
+    "protocol": "IP",
+    "model": "sonos bridge",
+    "type": {
+        "detected_id": 228,
+        "id": 21
+    },
+    "id": 3482259
+},
+{
+    "status": "ONLINE",
+    "grace_period": 120,
+    "display_name": "Play:3 /Kitchen/",
+    "first_seen_on": "2019-05-09T01:13:34+00:00",
+    "importance": "VITAL",
+    "ip_addresses": [
+        "192.168.0.211"
+    ],
+    "hw_address": "00:0E:58:7D:C6:F6",
+    "vendor": "Sonos, Inc.",
+    "is_jammed": false,
+    "last_status_change": "2019-11-21T06:26:44+00:00",
+    "agent_reachable": true,
+    "names": {
+        "dhcp": "SonosZP",
+        "host": "",
+        "inspection": "Play:3 /Kitchen/",
+        "bonjour": "sonos000E587DC6F6",
+        "upnp": "Sonos Play:3"
+    },
+    "protocol": "IP",
+    "model": "sonos play:3",
+    "type": {
+        "detected_id": 228,
+        "id": 21
+    },
+    "id": 3482260
+},
+{
+    "status": "ONLINE",
+    "grace_period": 120,
+    "display_name": "Connect:Amp /Ensuite/",
+    "first_seen_on": "2019-05-09T01:13:34+00:00",
+    "importance": "VITAL",
+    "ip_addresses": [
+        "192.168.0.205"
+    ],
+    "hw_address": "00:0E:58:D8:F0:FC",
+    "vendor": "Sonos, Inc.",
+    "is_jammed": false,
+    "last_status_change": "2019-11-21T06:25:45+00:00",
+    "agent_reachable": true,
+    "names": {
+        "dhcp": "SonosZP",
+        "host": "",
+        "inspection": "Connect:Amp /Ensuite/",
+        "bonjour": "sonos000E58D8F0FC",
+        "upnp": "Sonos Connect:Amp"
+    },
+    "protocol": "IP",
+    "model": "sonos connect:amp",
+    "type": {
+        "detected_id": 228,
+        "id": 21
+    },
+    "id": 3482261
+},
+{
+    "status": "ONLINE",
+    "grace_period": 120,
+    "display_name": "CBUS CNI",
+    "first_seen_on": "2019-05-09T01:13:34+00:00",
+    "importance": "VITAL",
+    "ip_addresses": [
+        "192.168.0.100"
+    ],
+    "hw_address": "00:17:DD:01:38:EB",
+    "user_data": {
+        "name": "CBUS CNI"
+    },
+    "vendor": "Clipsal Australia",
+    "is_jammed": false,
+    "last_status_change": "2019-08-20T22:43:39+00:00",
+    "agent_reachable": true,
+    "names": {
+        "host": ""
+    },
+    "protocol": "IP",
+    "id": 3482262
+},
+{
+    "status": "ONLINE",
+    "grace_period": 120,
+    "display_name": "Diana's iPad",
+    "first_seen_on": "2019-05-09T01:13:34+00:00",
+    "importance": "FLOATING",
+    "ip_addresses": [
+        "192.168.0.189"
+    ],
+    "hw_address": "04:52:F3:4C:FF:0D",
+    "vendor": "Apple, Inc.",
+    "is_jammed": false,
+    "last_status_change": "2019-11-21T06:10:46+00:00",
+    "agent_reachable": true,
+    "names": {
+        "dhcp": "Basement-iPad",
+        "host": "Dianas-iPad.localdomain",
+        "bonjour": "Diana's iPad"
+    },
+    "protocol": "IP",
+    "model": "iPad",
+    "type": {
+        "detected_id": 5,
+        "id": 10
+    },
+    "id": 3482263
+},
+{
+    "status": "ONLINE",
+    "grace_period": 120,
+    "display_name": "UniFi-CloudKey",
+    "first_seen_on": "2019-05-09T01:13:34+00:00",
+    "importance": "VITAL",
+    "ip_addresses": [
+        "192.168.0.199"
+    ],
+    "hw_address": "18:E8:29:B2:8D:25",
+    "user_data": {
+        "name": "UniFi-CloudKey"
+    },
+    "vendor": "Ubiquiti Networks",
+    "is_jammed": false,
+    "last_status_change": "2019-11-12T00:37:49+00:00",
+    "agent_reachable": true,
+    "names": {
+        "dhcp": "UniFi-CloudKey",
+        "host": "unifi",
+        "bonjour": "UniFi Controller (unifi_yourdomain_com)"
+    },
+    "protocol": "IP",
+    "model": "Unifi/WiFi/Controller",
+    "type": {
+        "detected_id": 38,
+        "id": 6
+    },
+    "id": 3482264
+},
+{
+    "status": "DOWN",
+    "grace_period": 120,
+    "display_name": "Sony Bravia",
+    "first_seen_on": "2019-05-09T01:13:34+00:00",
+    "importance": "FLOATING",
+    "ip_addresses": [
+        "192.168.0.182"
+    ],
+    "hw_address": "34:68:95:4D:77:67",
+    "user_data": {
+        "type": 19,
+        "name": "Sony Bravia"
+    },
+    "vendor": "Hon Hai Precision Ind. Co.,Ltd.",
+    "is_jammed": false,
+    "last_status_change": "2019-11-21T20:56:43+00:00",
+    "agent_reachable": true,
+    "names": {
+        "host": "tv77ce601c230e.localdomain",
+        "inspection": "Connect /Basketball Court/",
+        "upnp": "BRAVIA KD-79X9000B"
+    },
+    "protocol": "IP",
+    "model": "Sonos/Speaker/Play",
+    "type": {
+        "detected_id": 228,
+        "id": 21
+    },
+    "id": 3482265
+},
+{
+    "status": "ONLINE",
+    "grace_period": 120,
+    "display_name": "HIKVISION DS-2CD2632F-I - 478329139",
+    "first_seen_on": "2019-05-09T01:13:34+00:00",
+    "importance": "VITAL",
+    "ip_addresses": [
+        "192.168.0.68"
+    ],
+    "hw_address": "44:19:B6:6E:16:95",
+    "user_data": {
+        "type": 22
+    },
+    "vendor": "Hangzhou Hikvision Digital Technology Co.,Ltd.",
+    "is_jammed": false,
+    "last_status_change": "2019-11-21T06:25:45+00:00",
+    "agent_reachable": true,
+    "names": {
+        "host": "",
+        "bonjour": "HIKVISION DS-2CD2632F-I - 478329139",
+        "upnp": "HIKVISION DS-2CD2632F-I - 478329139"
+    },
+    "protocol": "IP",
+    "model": "DS-2CD2632F-I",
+    "type": {
+        "detected_id": 199,
+        "id": 22
+    },
+    "id": 3482266
+},
+{
+    "status": "ONLINE",
+    "grace_period": 120,
+    "display_name": "Unifi - MasterWIR AP",
+    "first_seen_on": "2019-05-09T01:13:34+00:00",
+    "importance": "VITAL",
+    "ip_addresses": [
+        "192.168.0.230"
+    ],
+    "hw_address": "44:D9:E7:90:5C:3F",
+    "user_data": {
+        "name": "Unifi - MasterWIR AP"
+    },
+    "vendor": "Ubiquiti Networks",
+    "is_jammed": false,
+    "last_status_change": "2019-11-21T06:26:44+00:00",
+    "agent_reachable": true,
+    "names": {
+        "dhcp": "MasterWIR",
+        "host": "MasterWIR.localdomain",
+        "inspection": "MasterWIR",
+        "snmp": "MasterWIR"
+    },
+    "protocol": "IP",
+    "model": "U7PG2",
+    "type": {
+        "detected_id": 39,
+        "id": 32
+    },
+    "id": 3482267
+},
+{
+    "status": "ONLINE",
+    "grace_period": 120,
+    "display_name": "Sub /Master Bedroom/",
+    "first_seen_on": "2019-05-09T01:13:34+00:00",
+    "importance": "VITAL",
+    "ip_addresses": [
+        "192.168.0.217"
+    ],
+    "hw_address": "5C:AA:FD:82:6F:F8",
+    "vendor": "Sonos, Inc.",
+    "is_jammed": false,
+    "last_status_change": "2019-11-21T06:26:44+00:00",
+    "agent_reachable": true,
+    "names": {
+        "dhcp": "SonosZP",
+        "host": "",
+        "inspection": "Sub /Master Bedroom/",
+        "upnp": "Sonos Sub"
+    },
+    "protocol": "IP",
+    "model": "sonos sub",
+    "type": {
+        "detected_id": 228,
+        "id": 21
+    },
+    "id": 3482268
+},
+{
+    "status": "DOWN",
+    "grace_period": 120,
+    "display_name": "Galaxy J1(2016)",
+    "first_seen_on": "2019-05-09T01:13:34+00:00",
+    "importance": "FLOATING",
+    "ip_addresses": [
+        "192.168.0.233"
+    ],
+    "hw_address": "84:98:66:70:C8:95",
+    "vendor": "Samsung",
+    "is_jammed": false,
+    "last_status_change": "2019-07-05T06:47:34+00:00",
+    "agent_reachable": true,
+    "names": {
+        "dhcp": "android-5372261e9fa5186d",
+        "host": "android-5372261e9fa5186d.localdomain"
+    },
+    "protocol": "IP",
+    "model": "Galaxy J1(2016)",
+    "type": {
+        "detected_id": 4,
+        "id": 9
+    },
+    "id": 3482269
+},
+{
+    "status": "DOWN",
+    "grace_period": 120,
+    "display_name": "Aarons-MacBook-Pro",
+    "first_seen_on": "2019-05-09T01:13:34+00:00",
+    "importance": "FLOATING",
+    "ip_addresses": [
+        "192.168.0.238"
+    ],
+    "hw_address": "A4:5E:60:CE:26:3D",
+    "vendor": "Apple, Inc.",
+    "is_jammed": false,
+    "last_status_change": "2019-11-21T05:51:56+00:00",
+    "agent_reachable": true,
+    "names": {
+        "dhcp": "Aarons-MBP",
+        "host": "",
+        "bonjour": "Aaron-WinVM"
+    },
+    "protocol": "IP",
+    "model": "MacBook",
+    "type": {
+        "detected_id": 35,
+        "id": 4
+    },
+    "id": 3482270
+},
+{
+    "status": "ONLINE",
+    "grace_period": 120,
+    "display_name": "USGGateway",
+    "first_seen_on": "2019-05-09T01:13:34+00:00",
+    "importance": "VITAL",
+    "ip_addresses": [
+        "192.168.0.1"
+    ],
+    "hw_address": "B4:FB:E4:CA:1A:1E",
+    "vendor": "Ubiquiti Networks",
+    "is_jammed": false,
+    "last_status_change": "2019-08-01T05:27:24+00:00",
+    "agent_reachable": true,
+    "names": {
+        "snmp": "USGGateway",
+        "host": "USGGateway",
+        "inspection": "USGGateway"
+    },
+    "protocol": "IP",
+    "model": "UniFi-Gateway-3",
+    "type": {
+        "detected_id": 40,
+        "id": 6
+    },
+    "id": 3482271
+},
+{
+    "status": "ONLINE",
+    "grace_period": 120,
+    "display_name": "Domotz",
+    "first_seen_on": "2019-05-09T01:13:34+00:00",
+    "importance": "VITAL",
+    "ip_addresses": [
+        "192.168.0.226"
+    ],
+    "hw_address": "B8:27:EB:B2:0A:C6",
+    "user_data": {
+        "name": "Domotz"
+    },
+    "vendor": "Raspberry Pi Foundation",
+    "is_jammed": false,
+    "last_status_change": "2019-05-09T01:13:34+00:00",
+    "agent_reachable": true,
+    "names": {
+        "host": "Domotz"
+    },
+    "protocol": "IP",
+    "type": {
+        "detected_id": 122,
+        "id": 24
+    },
+    "id": 3482272
+},
+{
+    "status": "ONLINE",
+    "grace_period": 120,
+    "display_name": "Sub /Alfresco/",
+    "first_seen_on": "2019-05-09T01:13:34+00:00",
+    "importance": "VITAL",
+    "ip_addresses": [
+        "192.168.0.215"
+    ],
+    "hw_address": "B8:E9:37:65:72:B4",
+    "vendor": "Sonos, Inc.",
+    "is_jammed": false,
+    "last_status_change": "2019-11-21T06:26:44+00:00",
+    "agent_reachable": true,
+    "names": {
+        "dhcp": "SonosZP",
+        "host": "",
+        "inspection": "Sub /Alfresco/",
+        "upnp": "Sonos Sub"
+    },
+    "protocol": "IP",
+    "model": "sonos sub",
+    "type": {
+        "detected_id": 228,
+        "id": 21
+    },
+    "id": 3482273
+},
+{
+    "status": "ONLINE",
+    "grace_period": 120,
+    "display_name": "Sub /Family Room/",
+    "first_seen_on": "2019-05-09T01:13:34+00:00",
+    "importance": "VITAL",
+    "ip_addresses": [
+        "192.168.0.216"
+    ],
+    "hw_address": "B8:E9:37:65:75:A2",
+    "vendor": "Sonos, Inc.",
+    "is_jammed": false,
+    "last_status_change": "2019-11-21T06:26:44+00:00",
+    "agent_reachable": true,
+    "names": {
+        "dhcp": "SonosZP",
+        "host": "",
+        "inspection": "Sub /Family Room/",
+        "upnp": "Sonos Sub"
+    },
+    "protocol": "IP",
+    "model": "sonos sub",
+    "type": {
+        "detected_id": 228,
+        "id": 21
+    },
+    "id": 3482274
+},
+{
+    "status": "ONLINE",
+    "grace_period": 120,
+    "display_name": "Playbar /Family Room/",
+    "first_seen_on": "2019-05-09T01:13:34+00:00",
+    "importance": "VITAL",
+    "ip_addresses": [
+        "192.168.0.212"
+    ],
+    "hw_address": "B8:E9:37:7F:19:43",
+    "vendor": "Sonos, Inc.",
+    "is_jammed": false,
+    "last_status_change": "2019-11-21T06:25:45+00:00",
+    "agent_reachable": true,
+    "names": {
+        "dhcp": "SonosZP",
+        "host": "",
+        "inspection": "Playbar /Family Room/",
+        "bonjour": "sonosB8E9377F1943",
+        "upnp": "Sonos Playbar"
+    },
+    "protocol": "IP",
+    "model": "sonos playbar",
+    "type": {
+        "detected_id": 228,
+        "id": 21
+    },
+    "id": 3482275
+},
+{
+    "status": "ONLINE",
+    "grace_period": 120,
+    "display_name": "Playbar /Master Bedroom/",
+    "first_seen_on": "2019-05-09T01:13:34+00:00",
+    "importance": "VITAL",
+    "ip_addresses": [
+        "192.168.0.213"
+    ],
+    "hw_address": "B8:E9:37:7F:1A:4E",
+    "vendor": "Sonos, Inc.",
+    "is_jammed": false,
+    "last_status_change": "2019-11-21T06:26:44+00:00",
+    "agent_reachable": true,
+    "names": {
+        "dhcp": "SonosZP",
+        "host": "",
+        "inspection": "Playbar /Master Bedroom/",
+        "bonjour": "sonosB8E9377F1A4E",
+        "upnp": "Sonos Playbar"
+    },
+    "protocol": "IP",
+    "model": "sonos playbar",
+    "type": {
+        "detected_id": 228,
+        "id": 21
+    },
+    "id": 3482276
+},
+{
+    "status": "ONLINE",
+    "grace_period": 120,
+    "display_name": "Playbar /Rumpus TV/",
+    "first_seen_on": "2019-05-09T01:13:34+00:00",
+    "importance": "VITAL",
+    "ip_addresses": [
+        "192.168.0.214"
+    ],
+    "hw_address": "B8:E9:37:7F:1A:87",
+    "vendor": "Sonos, Inc.",
+    "is_jammed": false,
+    "last_status_change": "2019-11-21T06:25:45+00:00",
+    "agent_reachable": true,
+    "names": {
+        "dhcp": "SonosZP",
+        "host": "",
+        "inspection": "Playbar /Rumpus TV/",
+        "bonjour": "sonosB8E9377F1A87",
+        "upnp": "Sonos Playbar"
+    },
+    "protocol": "IP",
+    "model": "sonos playbar",
+    "type": {
+        "detected_id": 228,
+        "id": 21
+    },
+    "id": 3482277
+},
+{
+    "status": "ONLINE",
+    "grace_period": 120,
+    "display_name": "Connect:Amp /Master Bedroom/",
+    "first_seen_on": "2019-05-09T01:13:34+00:00",
+    "importance": "VITAL",
+    "ip_addresses": [
+        "192.168.0.209"
+    ],
+    "hw_address": "B8:E9:37:A4:24:1E",
+    "vendor": "Sonos, Inc.",
+    "is_jammed": false,
+    "last_status_change": "2019-11-21T06:25:45+00:00",
+    "agent_reachable": true,
+    "names": {
+        "dhcp": "SonosZP",
+        "host": "",
+        "inspection": "Connect:Amp /Master Bedroom/",
+        "upnp": "Sonos Connect:Amp"
+    },
+    "protocol": "IP",
+    "model": "sonos connect:amp",
+    "type": {
+        "detected_id": 228,
+        "id": 21
+    },
+    "id": 3482278
+},
+{
+    "status": "ONLINE",
+    "grace_period": 120,
+    "display_name": "Connect:Amp /Family Room/",
+    "first_seen_on": "2019-05-09T01:13:34+00:00",
+    "importance": "VITAL",
+    "ip_addresses": [
+        "192.168.0.181"
+    ],
+    "hw_address": "B8:E9:37:A4:24:B8",
+    "vendor": "Sonos, Inc.",
+    "is_jammed": false,
+    "last_status_change": "2019-11-21T06:25:45+00:00",
+    "agent_reachable": true,
+    "names": {
+        "dhcp": "SonosZP",
+        "host": "",
+        "inspection": "Connect:Amp /Family Room/",
+        "upnp": "Sonos Connect:Amp"
+    },
+    "protocol": "IP",
+    "model": "sonos connect:amp",
+    "type": {
+        "detected_id": 228,
+        "id": 21
+    },
+    "id": 3482279
+},
+{
+    "status": "ONLINE",
+    "grace_period": 120,
+    "display_name": "Sonos Connect:Amp",
+    "first_seen_on": "2019-05-09T01:13:34+00:00",
+    "importance": "VITAL",
+    "ip_addresses": [
+        "192.168.0.203"
+    ],
+    "hw_address": "B8:E9:37:A4:27:CA",
+    "user_data": {
+        "name": "Sonos Connect:Amp"
+    },
+    "vendor": "Sonos, Inc.",
+    "is_jammed": false,
+    "last_status_change": "2019-11-21T06:25:45+00:00",
+    "agent_reachable": true,
+    "names": {
+        "dhcp": "SonosZP",
+        "host": "",
+        "inspection": "Connect:Amp /Alfresco/",
+        "bonjour": "sonosB8E937A427CA",
+        "upnp": "Sonos Connect:Amp"
+    },
+    "protocol": "IP",
+    "model": "sonos connect:amp",
+    "type": {
+        "detected_id": 228,
+        "id": 21
+    },
+    "id": 3482280
+},
+{
+    "status": "ONLINE",
+    "grace_period": 120,
+    "display_name": "Connect:Amp /Rumpus TV/",
+    "first_seen_on": "2019-05-09T01:13:34+00:00",
+    "importance": "VITAL",
+    "ip_addresses": [
+        "192.168.0.210"
+    ],
+    "hw_address": "B8:E9:37:A4:2E:C8",
+    "vendor": "Sonos, Inc.",
+    "is_jammed": false,
+    "last_status_change": "2019-11-21T06:25:45+00:00",
+    "agent_reachable": true,
+    "names": {
+        "dhcp": "SonosZP",
+        "host": "",
+        "inspection": "Connect:Amp /Rumpus TV/",
+        "upnp": "Sonos Connect:Amp"
+    },
+    "protocol": "IP",
+    "model": "sonos connect:amp",
+    "type": {
+        "detected_id": 228,
+        "id": 21
+    },
+    "id": 3482281
+},
+{
+    "status": "ONLINE",
+    "grace_period": 120,
+    "display_name": "Connect:Amp /Kids Bathroom/",
+    "first_seen_on": "2019-05-09T01:13:34+00:00",
+    "importance": "VITAL",
+    "ip_addresses": [
+        "192.168.0.208"
+    ],
+    "hw_address": "B8:E9:37:A9:D3:D4",
+    "vendor": "Sonos, Inc.",
+    "is_jammed": false,
+    "last_status_change": "2019-11-21T06:26:44+00:00",
+    "agent_reachable": true,
+    "names": {
+        "dhcp": "SonosZP",
+        "host": "",
+        "inspection": "Connect:Amp /Kids Bathroom/",
+        "bonjour": "sonosB8E937A9D3D4",
+        "upnp": "Sonos Connect:Amp"
+    },
+    "protocol": "IP",
+    "model": "sonos connect:amp",
+    "type": {
+        "detected_id": 228,
+        "id": 21
+    },
+    "id": 3482282
+},
+{
+    "status": "ONLINE",
+    "grace_period": 120,
+    "display_name": "Connect:Amp /Games/",
+    "first_seen_on": "2019-05-09T01:13:34+00:00",
+    "importance": "VITAL",
+    "ip_addresses": [
+        "192.168.0.207"
+    ],
+    "hw_address": "B8:E9:37:A9:D4:5A",
+    "vendor": "Sonos, Inc.",
+    "is_jammed": false,
+    "last_status_change": "2019-11-21T06:25:45+00:00",
+    "agent_reachable": true,
+    "names": {
+        "dhcp": "SonosZP",
+        "host": "",
+        "inspection": "Connect:Amp /Games/",
+        "bonjour": "sonosB8E937A9D45A",
+        "upnp": "Sonos Connect:Amp"
+    },
+    "protocol": "IP",
+    "model": "sonos connect:amp",
+    "type": {
+        "detected_id": 228,
+        "id": 21
+    },
+    "id": 3482283
+},
+{
+    "status": "ONLINE",
+    "grace_period": 120,
+    "display_name": "Connect:Amp /Deck/",
+    "first_seen_on": "2019-05-09T01:13:34+00:00",
+    "importance": "VITAL",
+    "ip_addresses": [
+        "192.168.0.204"
+    ],
+    "hw_address": "B8:E9:37:AF:6F:CE",
+    "vendor": "Sonos, Inc.",
+    "is_jammed": false,
+    "last_status_change": "2019-11-21T06:26:44+00:00",
+    "agent_reachable": true,
+    "names": {
+        "dhcp": "SonosZP",
+        "host": "",
+        "inspection": "Connect:Amp /Deck/",
+        "bonjour": "sonosB8E937AF6FCE",
+        "upnp": "Sonos Connect:Amp"
+    },
+    "protocol": "IP",
+    "model": "sonos connect:amp",
+    "type": {
+        "detected_id": 228,
+        "id": 21
+    },
+    "id": 3482284
+},
+{
+    "status": "DOWN",
+    "grace_period": 120,
+    "display_name": "diana-surface",
+    "first_seen_on": "2019-05-09T01:13:34+00:00",
+    "importance": "FLOATING",
+    "ip_addresses": [
+        "192.168.0.250"
+    ],
+    "hw_address": "BC:83:85:D6:87:DA",
+    "vendor": "Microsoft Corporation",
+    "is_jammed": false,
+    "last_status_change": "2019-10-23T12:03:53+00:00",
+    "agent_reachable": true,
+    "names": {
+        "dhcp": "diana-surface",
+        "host": "diana-surface.localdomain"
+    },
+    "protocol": "IP",
+    "model": "Surface",
+    "type": {
+        "detected_id": 5,
+        "id": 10
+    },
+    "id": 3482285
+},
+{
+    "status": "ONLINE",
+    "grace_period": 120,
+    "display_name": "HIKVISION DS-2CD2142FWD-I - 622668932",
+    "first_seen_on": "2019-05-09T01:13:34+00:00",
+    "importance": "VITAL",
+    "ip_addresses": [
+        "192.168.0.65"
+    ],
+    "hw_address": "BC:AD:28:C4:A8:67",
+    "user_data": {
+        "type": 22
+    },
+    "vendor": "Hangzhou Hikvision Digital Technology Co.,Ltd.",
+    "is_jammed": false,
+    "last_status_change": "2019-11-21T06:25:45+00:00",
+    "agent_reachable": true,
+    "names": {
+        "host": "",
+        "bonjour": "HIKVISION DS-2CD2142FWD-I - 622668932"
+    },
+    "protocol": "IP",
+    "type": {
+        "detected_id": 220,
+        "id": 3
+    },
+    "id": 3482286
+},
+{
+    "status": "ONLINE",
+    "grace_period": 120,
+    "display_name": "HIKVISION DS-2CD2142FWD-I - 622668933",
+    "first_seen_on": "2019-05-09T01:13:34+00:00",
+    "importance": "VITAL",
+    "ip_addresses": [
+        "192.168.0.66"
+    ],
+    "hw_address": "BC:AD:28:C4:A8:68",
+    "user_data": {
+        "type": 22
+    },
+    "vendor": "Hangzhou Hikvision Digital Technology Co.,Ltd.",
+    "is_jammed": false,
+    "last_status_change": "2019-11-21T06:25:45+00:00",
+    "agent_reachable": true,
+    "names": {
+        "host": "",
+        "bonjour": "HIKVISION DS-2CD2142FWD-I - 622668933"
+    },
+    "protocol": "IP",
+    "type": {
+        "detected_id": 220,
+        "id": 3
+    },
+    "id": 3482287
+},
+{
+    "status": "ONLINE",
+    "grace_period": 120,
+    "display_name": "HIKVISION DS-2CD2142FWD-I - 622669007",
+    "first_seen_on": "2019-05-09T01:13:34+00:00",
+    "importance": "VITAL",
+    "ip_addresses": [
+        "192.168.0.67"
+    ],
+    "hw_address": "BC:AD:28:C4:A8:B2",
+    "user_data": {
+        "type": 22
+    },
+    "vendor": "Hangzhou Hikvision Digital Technology Co.,Ltd.",
+    "is_jammed": false,
+    "last_status_change": "2019-11-21T06:25:45+00:00",
+    "agent_reachable": true,
+    "names": {
+        "host": "",
+        "bonjour": "HIKVISION DS-2CD2142FWD-I - 622669007"
+    },
+    "protocol": "IP",
+    "type": {
+        "detected_id": 199,
+        "id": 22
+    },
+    "id": 3482288
+},
+{
+    "status": "ONLINE",
+    "grace_period": 120,
+    "display_name": "Sony Bluray",
+    "first_seen_on": "2019-05-09T01:13:34+00:00",
+    "importance": "FLOATING",
+    "ip_addresses": [
+        "192.168.0.228"
+    ],
+    "hw_address": "D0:53:49:F4:AB:C8",
+    "user_data": {
+        "type": 39,
+        "name": "Sony Bluray"
+    },
+    "vendor": "Liteon Technology Corporation",
+    "is_jammed": false,
+    "last_status_change": "2019-11-21T06:25:45+00:00",
+    "agent_reachable": true,
+    "names": {
+        "host": "",
+        "upnp": "BDP-S5500"
+    },
+    "protocol": "IP",
+    "model": "Blu-ray Disc Player",
+    "type": {
+        "detected_id": 14,
+        "id": 20
+    },
+    "id": 3482289
+},
+{
+    "status": "DOWN",
+    "grace_period": 120,
+    "display_name": "Jacob",
+    "first_seen_on": "2019-05-09T01:14:09+00:00",
+    "importance": "FLOATING",
+    "ip_addresses": [
+        "192.168.0.195"
+    ],
+    "hw_address": "50:32:37:49:39:DC",
+    "vendor": "Apple, Inc.",
+    "is_jammed": false,
+    "last_status_change": "2019-11-21T15:01:06+00:00",
+    "agent_reachable": true,
+    "names": {
+        "dhcp": "Jacob",
+        "host": "Jacob.localdomain",
+        "bonjour": "4FE7D18B2E70A5A6"
+    },
+    "protocol": "IP",
+    "model": "iPad",
+    "type": {
+        "detected_id": 5,
+        "id": 10
+    },
+    "id": 3482290
+},
+{
+    "status": "DOWN",
+    "grace_period": 120,
+    "display_name": "Aaron\u2019s iPad",
+    "first_seen_on": "2019-05-09T01:14:09+00:00",
+    "importance": "FLOATING",
+    "ip_addresses": [
+        "192.168.0.167"
+    ],
+    "hw_address": "98:01:A7:17:0B:F7",
+    "vendor": "Apple, Inc.",
+    "is_jammed": false,
+    "last_status_change": "2019-11-12T05:00:39+00:00",
+    "agent_reachable": true,
+    "names": {
+        "dhcp": "Aarons-iPad",
+        "host": "Aarons-iPad.localdomain",
+        "bonjour": "Aaron\u2019s iPad"
+    },
+    "protocol": "IP",
+    "model": "iPad Pro (9.7\")",
+    "type": {
+        "detected_id": 5,
+        "id": 10
+    },
+    "id": 3482291
+},
+{
+    "status": "ONLINE",
+    "grace_period": 120,
+    "display_name": "Office Printer",
+    "first_seen_on": "2019-05-09T01:14:09+00:00",
+    "importance": "VITAL",
+    "ip_addresses": [
+        "192.168.0.136"
+    ],
+    "hw_address": "B8:86:87:B3:F8:66",
+    "user_data": {
+        "name": "Office Printer"
+    },
+    "vendor": "Liteon Technology Corporation",
+    "is_jammed": false,
+    "last_status_change": "2019-11-21T06:27:41+00:00",
+    "agent_reachable": true,
+    "names": {
+        "dhcp": "FXB3F866",
+        "host": "FXB3F866.localdomain",
+        "snmp": "DocuPrint CM225/228 fw",
+        "bonjour": "FUJI XEROX DocuPrint CM225/228 fw (B3:F8:66)"
+    },
+    "protocol": "IP",
+    "model": "FUJI XEROX DocuPrint CM225/228 fw",
+    "type": {
+        "detected_id": 6,
+        "id": 8
+    },
+    "id": 3482292
+},
+{
+    "status": "ONLINE",
+    "grace_period": 120,
+    "display_name": "00:06:C6:63:D6:BE",
+    "first_seen_on": "2019-05-09T01:14:46+00:00",
+    "importance": "FLOATING",
+    "ip_addresses": [
+        "192.168.0.206"
+    ],
+    "hw_address": "00:06:C6:63:D6:BE",
+    "vendor": "lesswire AG",
+    "is_jammed": false,
+    "last_status_change": "2019-11-21T18:43:15+00:00",
+    "agent_reachable": true,
+    "names": {
+        "host": ""
+    },
+    "protocol": "IP",
+    "id": 3482293
+},
+{
+    "status": "DOWN",
+    "grace_period": 120,
+    "display_name": "iPad",
+    "first_seen_on": "2019-05-09T01:14:46+00:00",
+    "importance": "FLOATING",
+    "ip_addresses": [
+        "192.168.0.178"
+    ],
+    "hw_address": "34:A8:EB:28:32:EC",
+    "vendor": "Apple, Inc.",
+    "is_jammed": false,
+    "last_status_change": "2019-11-21T18:28:17+00:00",
+    "agent_reachable": true,
+    "names": {
+        "dhcp": "iPad",
+        "host": "",
+        "bonjour": "iPad"
+    },
+    "protocol": "IP",
+    "model": "iPad",
+    "type": {
+        "detected_id": 5,
+        "id": 10
+    },
+    "id": 3482294
+},
+{
+    "status": "ONLINE",
+    "grace_period": 120,
+    "display_name": "Wall Station iPad",
+    "first_seen_on": "2019-05-09T01:15:50+00:00",
+    "importance": "FLOATING",
+    "ip_addresses": [
+        "192.168.0.140"
+    ],
+    "hw_address": "DC:A4:CA:A5:C1:D0",
+    "user_data": {
+        "type": 66,
+        "name": "Wall Station iPad"
+    },
+    "vendor": "Apple, Inc.",
+    "is_jammed": false,
+    "last_status_change": "2019-11-11T20:40:15+00:00",
+    "agent_reachable": true,
+    "names": {
+        "dhcp": "WallStationiPad",
+        "host": "WallStationiPad.localdomain",
+        "bonjour": "Wall Station iPad"
+    },
+    "protocol": "IP",
+    "model": "iPad",
+    "type": {
+        "detected_id": 5,
+        "id": 10
+    },
+    "id": 3482295
+},
+{
+    "status": "DOWN",
+    "grace_period": 120,
+    "display_name": "Galaxy-S9",
+    "first_seen_on": "2019-05-09T01:16:26+00:00",
+    "importance": "FLOATING",
+    "ip_addresses": [
+        "192.168.0.226"
+    ],
+    "hw_address": "24:18:1D:DC:53:A9",
+    "vendor": "Samsung",
+    "is_jammed": false,
+    "last_status_change": "2019-07-05T06:47:34+00:00",
+    "agent_reachable": true,
+    "names": {
+        "dhcp": "Galaxy-S9",
+        "host": ""
+    },
+    "protocol": "IP",
+    "type": {
+        "detected_id": 4,
+        "id": 9
+    },
+    "id": 3482296
+},
+{
+    "status": "ONLINE",
+    "grace_period": 120,
+    "display_name": "Foxtel",
+    "first_seen_on": "2019-05-09T01:21:51+00:00",
+    "importance": "VITAL",
+    "ip_addresses": [
+        "192.168.0.241"
+    ],
+    "hw_address": "D8:25:22:71:33:7F",
+    "user_data": {
+        "name": "Foxtel"
+    },
+    "vendor": "ARRIS Group, Inc.",
+    "is_jammed": false,
+    "last_status_change": "2019-11-21T06:26:44+00:00",
+    "agent_reachable": true,
+    "names": {
+        "dhcp": "Foxtel-DGX7000NF-0209142470118729",
+        "host": ""
+    },
+    "protocol": "IP",
+    "model": "Foxtel IQ3",
+    "type": {
+        "detected_id": 114,
+        "id": 29
+    },
+    "id": 3482299
+},
+{
+    "status": "DOWN",
+    "grace_period": 120,
+    "display_name": "Taplop.localdomain",
+    "first_seen_on": "2019-05-09T01:29:17+00:00",
+    "importance": "FLOATING",
+    "ip_addresses": [
+        "192.168.0.225"
+    ],
+    "hw_address": "4C:0B:BE:1F:60:AC",
+    "vendor": "Microsoft",
+    "is_jammed": false,
+    "last_status_change": "2019-05-09T02:43:21+00:00",
+    "agent_reachable": true,
+    "names": {
+        "host": "Taplop.localdomain"
+    },
+    "protocol": "IP",
+    "type": {
+        "detected_id": 5,
+        "id": 10
+    },
+    "id": 3482308
+},
+{
+    "status": "DOWN",
+    "grace_period": 120,
+    "display_name": "AaronWorkiPhone",
+    "first_seen_on": "2019-05-09T01:49:12+00:00",
+    "importance": "FLOATING",
+    "ip_addresses": [
+        "192.168.0.237"
+    ],
+    "hw_address": "D0:A6:37:DD:95:28",
+    "vendor": "Apple, Inc.",
+    "is_jammed": false,
+    "last_status_change": "2019-11-06T07:20:05+00:00",
+    "agent_reachable": true,
+    "names": {
+        "dhcp": "AaronWorkiPhone",
+        "host": ""
+    },
+    "protocol": "IP",
+    "model": "iPhone",
+    "type": {
+        "detected_id": 4,
+        "id": 9
+    },
+    "id": 3482317
+},
+{
+    "status": "DOWN",
+    "grace_period": 120,
+    "display_name": "Aaron-iPhone-X",
+    "first_seen_on": "2019-05-09T02:15:50+00:00",
+    "importance": "FLOATING",
+    "ip_addresses": [
+        "192.168.0.244"
+    ],
+    "hw_address": "34:08:BC:73:D6:A4",
+    "vendor": "Apple, Inc.",
+    "is_jammed": false,
+    "last_status_change": "2019-11-21T05:50:47+00:00",
+    "agent_reachable": true,
+    "names": {
+        "dhcp": "Aaron-iPhone-X",
+        "host": "Aaron-iPhone-X.localdomain",
+        "bonjour": "34:08:bc:73:d6:a4@fe80::3608:bcff:fe73:d6a4"
+    },
+    "protocol": "IP",
+    "model": "iPhone",
+    "type": {
+        "detected_id": 4,
+        "id": 9
+    },
+    "id": 3482331
+},
+{
+    "status": "ONLINE",
+    "grace_period": 120,
+    "display_name": "Security Alarm",
+    "first_seen_on": "2019-05-09T03:42:22+00:00",
+    "importance": "VITAL",
+    "ip_addresses": [
+        "192.168.0.185"
+    ],
+    "hw_address": "00:11:B9:00:1D:17",
+    "user_data": {
+        "type": 18,
+        "name": "Security Alarm"
+    },
+    "vendor": "Inner Range Pty. Ltd.",
+    "is_jammed": false,
+    "last_status_change": "2019-08-10T13:59:41+00:00",
+    "agent_reachable": true,
+    "names": {
+        "host": ""
+    },
+    "protocol": "IP",
+    "id": 3482387
+},
+{
+    "status": "ONLINE",
+    "grace_period": 120,
+    "display_name": "XboxOne",
+    "first_seen_on": "2019-05-09T04:01:08+00:00",
+    "importance": "FLOATING",
+    "ip_addresses": [
+        "192.168.0.223"
+    ],
+    "hw_address": "94:9A:A9:0B:00:0C",
+    "user_data": {
+        "type": 12
+    },
+    "vendor": "Microsoft Corporation",
+    "is_jammed": false,
+    "last_status_change": "2019-11-22T03:53:09+00:00",
+    "agent_reachable": true,
+    "names": {
+        "dhcp": "XboxOne",
+        "host": "",
+        "upnp": "XboxOne"
+    },
+    "protocol": "IP",
+    "model": "Xbox One",
+    "type": {
+        "detected_id": 14,
+        "id": 20
+    },
+    "id": 3482403
+},
+{
+    "status": "ONLINE",
+    "grace_period": 120,
+    "display_name": "Hikvision NVR",
+    "first_seen_on": "2019-05-09T04:05:50+00:00",
+    "importance": "VITAL",
+    "ip_addresses": [
+        "192.168.0.5"
+    ],
+    "hw_address": "C0:56:E3:0E:BC:8A",
+    "user_data": {
+        "name": "Hikvision NVR"
+    },
+    "vendor": "Hangzhou Hikvision Digital Technology Co.,Ltd.",
+    "is_jammed": false,
+    "last_status_change": "2019-11-21T06:25:45+00:00",
+    "agent_reachable": true,
+    "names": {
+        "host": "",
+        "upnp": "DS-7716NI-E4/16P"
+    },
+    "protocol": "IP",
+    "type": {
+        "detected_id": 220,
+        "id": 3
+    },
+    "id": 3482414
+},
+{
+    "status": "ONLINE",
+    "grace_period": 120,
+    "display_name": "Unifi: Rumpus AP",
+    "first_seen_on": "2019-05-09T04:19:52+00:00",
+    "importance": "VITAL",
+    "ip_addresses": [
+        "192.168.0.225"
+    ],
+    "hw_address": "B4:FB:E4:C6:07:D1",
+    "user_data": {
+        "type": 32,
+        "name": "Unifi: Rumpus AP"
+    },
+    "vendor": "Ubiquiti Networks",
+    "is_jammed": false,
+    "last_status_change": "2019-11-06T00:25:08+00:00",
+    "agent_reachable": true,
+    "names": {
+        "dhcp": "Rumpus",
+        "host": "Rumpus.localdomain",
+        "inspection": "Rumpus",
+        "snmp": "Rumpus"
+    },
+    "protocol": "IP",
+    "model": "U7IWP",
+    "type": {
+        "detected_id": 39,
+        "id": 32
+    },
+    "id": 3482431
+},
+{
+    "status": "ONLINE",
+    "grace_period": 120,
+    "display_name": "Unifi - Downstairs AP",
+    "first_seen_on": "2019-05-09T04:19:52+00:00",
+    "importance": "VITAL",
+    "ip_addresses": [
+        "192.168.0.234"
+    ],
+    "hw_address": "B4:FB:E4:C6:0D:4B",
+    "user_data": {
+        "type": 32,
+        "name": "Unifi - Downstairs AP"
+    },
+    "vendor": "Ubiquiti Networks",
+    "is_jammed": false,
+    "last_status_change": "2019-11-06T00:24:08+00:00",
+    "agent_reachable": true,
+    "names": {
+        "dhcp": "BED5",
+        "host": "BED5.localdomain",
+        "inspection": "BED5",
+        "snmp": "BED5"
+    },
+    "protocol": "IP",
+    "model": "U7IWP",
+    "type": {
+        "detected_id": 39,
+        "id": 32
+    },
+    "id": 3482432
+},
+{
+    "status": "DOWN",
+    "grace_period": 120,
+    "display_name": "iPad",
+    "first_seen_on": "2019-05-09T04:51:12+00:00",
+    "importance": "FLOATING",
+    "ip_addresses": [
+        "192.168.0.231"
+    ],
+    "hw_address": "D0:E1:40:B6:2F:DE",
+    "vendor": "Apple, Inc.",
+    "is_jammed": false,
+    "last_status_change": "2019-11-21T20:59:47+00:00",
+    "agent_reachable": true,
+    "names": {
+        "dhcp": "iPad",
+        "host": ""
+    },
+    "protocol": "IP",
+    "model": "iPad",
+    "type": {
+        "detected_id": 5,
+        "id": 10
+    },
+    "id": 3482467
+},
+{
+    "status": "ONLINE",
+    "grace_period": 120,
+    "display_name": "iPort Wallstation",
+    "first_seen_on": "2019-05-09T04:55:49+00:00",
+    "importance": "VITAL",
+    "ip_addresses": [
+        "192.168.0.11"
+    ],
+    "hw_address": "DC:82:F6:00:01:A0",
+    "user_data": {
+        "name": "iPort Wallstation"
+    },
+    "vendor": "iPort",
+    "is_jammed": false,
+    "last_status_change": "2019-11-21T06:24:49+00:00",
+    "agent_reachable": true,
+    "names": {
+        "host": ""
+    },
+    "protocol": "IP",
+    "type": {
+        "detected_id": 11,
+        "id": 2
+    },
+    "id": 3482470
+},
+{
+    "status": "ONLINE",
+    "grace_period": 120,
+    "display_name": "Unifi - DiningReturnAir AP",
+    "first_seen_on": "2019-05-09T04:56:48+00:00",
+    "importance": "VITAL",
+    "ip_addresses": [
+        "192.168.0.235"
+    ],
+    "hw_address": "18:E8:29:6C:E6:57",
+    "user_data": {
+        "type": 32,
+        "name": "Unifi - DiningReturnAir AP"
+    },
+    "vendor": "Ubiquiti Networks",
+    "is_jammed": false,
+    "last_status_change": "2019-11-06T00:24:08+00:00",
+    "agent_reachable": true,
+    "names": {
+        "dhcp": "DiningReturnAir",
+        "host": "DiningReturnAir.localdomain",
+        "inspection": "DiningReturnAir",
+        "snmp": "DiningReturnAir"
+    },
+    "protocol": "IP",
+    "model": "U7PG2",
+    "type": {
+        "detected_id": 39,
+        "id": 32
+    },
+    "id": 3482471
+},
+{
+    "status": "ONLINE",
+    "grace_period": 120,
+    "display_name": "Jakes Apple TV",
+    "first_seen_on": "2019-05-10T01:32:13+00:00",
+    "importance": "VITAL",
+    "ip_addresses": [
+        "192.168.0.187"
+    ],
+    "hw_address": "90:DD:5D:C3:02:E3",
+    "user_data": {
+        "type": 29,
+        "name": "Jakes Apple TV"
+    },
+    "vendor": "Apple, Inc.",
+    "is_jammed": false,
+    "last_status_change": "2019-11-22T02:48:16+00:00",
+    "agent_reachable": true,
+    "names": {
+        "dhcp": "Jakes-Apple-TV",
+        "host": "Apple-TV-3-7.localdomain",
+        "bonjour": "Jakes Apple TV"
+    },
+    "protocol": "IP",
+    "model": "Apple TV",
+    "type": {
+        "detected_id": 105,
+        "id": 29
+    },
+    "id": 3485967
+},
+{
+    "status": "ONLINE",
+    "grace_period": 120,
+    "display_name": "OliviasAppleTV",
+    "first_seen_on": "2019-05-10T01:32:13+00:00",
+    "importance": "VITAL",
+    "ip_addresses": [
+        "192.168.0.148"
+    ],
+    "hw_address": "90:DD:5D:CA:27:D0",
+    "user_data": {
+        "type": 29,
+        "name": "OliviasAppleTV"
+    },
+    "vendor": "Apple, Inc.",
+    "is_jammed": false,
+    "last_status_change": "2019-11-22T02:48:16+00:00",
+    "agent_reachable": true,
+    "names": {
+        "dhcp": "OliviasAppleTV",
+        "host": "Apple-TV-2-842.localdomain",
+        "bonjour": "Olivia\u2019s Apple TV"
+    },
+    "protocol": "IP",
+    "model": "Apple TV",
+    "type": {
+        "detected_id": 105,
+        "id": 29
+    },
+    "id": 3485968
+},
+{
+    "status": "ONLINE",
+    "grace_period": 120,
+    "display_name": "MilliesAppleTV",
+    "first_seen_on": "2019-05-10T01:32:13+00:00",
+    "importance": "VITAL",
+    "ip_addresses": [
+        "192.168.0.222"
+    ],
+    "hw_address": "90:DD:5D:D0:45:FC",
+    "user_data": {
+        "type": 29,
+        "name": "MilliesAppleTV"
+    },
+    "vendor": "Apple, Inc.",
+    "is_jammed": false,
+    "last_status_change": "2019-11-22T02:48:16+00:00",
+    "agent_reachable": true,
+    "names": {
+        "dhcp": "MilliesAppleTV",
+        "host": "Server-3.localdomain",
+        "bonjour": "Millie\u2019s Apple TV"
+    },
+    "protocol": "IP",
+    "type": {
+        "detected_id": 105,
+        "id": 29
+    },
+    "id": 3485969
+},
+{
+    "status": "ONLINE",
+    "grace_period": 120,
+    "display_name": "Vince and Diana",
+    "first_seen_on": "2019-05-10T01:32:13+00:00",
+    "importance": "VITAL",
+    "ip_addresses": [
+        "192.168.0.245"
+    ],
+    "hw_address": "90:DD:5D:D3:FF:9F",
+    "user_data": {
+        "type": 29
+    },
+    "vendor": "Apple, Inc.",
+    "is_jammed": false,
+    "last_status_change": "2019-11-22T02:48:16+00:00",
+    "agent_reachable": true,
+    "names": {
+        "dhcp": "Vince-and-Diana",
+        "host": "Apple-TV-1-6.localdomain",
+        "bonjour": "Vince and Diana"
+    },
+    "protocol": "IP",
+    "model": "Apple TV",
+    "type": {
+        "detected_id": 105,
+        "id": 29
+    },
+    "id": 3485970
+},
+{
+    "status": "ONLINE",
+    "grace_period": 120,
+    "display_name": "Apple TV Theatre",
+    "first_seen_on": "2019-05-10T01:32:13+00:00",
+    "importance": "FLOATING",
+    "ip_addresses": [
+        "192.168.0.236"
+    ],
+    "hw_address": "C8:D0:83:B2:80:62",
+    "user_data": {
+        "type": 29,
+        "name": "Apple TV Theatre"
+    },
+    "vendor": "Apple, Inc.",
+    "is_jammed": false,
+    "last_status_change": "2019-11-22T02:48:16+00:00",
+    "agent_reachable": true,
+    "names": {
+        "dhcp": "TheatreAppleTV",
+        "host": "AppleTVTheatre.localdomain",
+        "bonjour": "Theatre Apple TV"
+    },
+    "protocol": "IP",
+    "model": "Apple TV",
+    "type": {
+        "detected_id": 105,
+        "id": 29
+    },
+    "id": 3485971
+},
+{
+    "status": "DOWN",
+    "grace_period": 120,
+    "display_name": "Dianas-phone",
+    "first_seen_on": "2019-05-10T02:20:33+00:00",
+    "importance": "FLOATING",
+    "ip_addresses": [
+        "192.168.0.224"
+    ],
+    "hw_address": "3C:2E:F9:19:D0:91",
+    "vendor": "Apple, Inc.",
+    "is_jammed": false,
+    "last_status_change": "2019-11-22T01:07:15+00:00",
+    "agent_reachable": true,
+    "names": {
+        "dhcp": "Dianas-phone",
+        "host": "",
+        "bonjour": "3c:2e:f9:19:d0:91@fe80::3e2e:f9ff:fe19:d091",
+        "upnp": "iPhone"
+    },
+    "protocol": "IP",
+    "model": "iPhone",
+    "type": {
+        "detected_id": 4,
+        "id": 9
+    },
+    "id": 3485995
+},
+{
+    "status": "DOWN",
+    "grace_period": 120,
+    "display_name": "Samsung Q6 Series (75)",
+    "first_seen_on": "2019-05-10T05:14:38+00:00",
+    "importance": "FLOATING",
+    "ip_addresses": [
+        "192.168.0.227"
+    ],
+    "hw_address": "CC:6E:A4:CF:F8:2E",
+    "vendor": "Samsung",
+    "is_jammed": false,
+    "last_status_change": "2019-11-21T12:18:59+00:00",
+    "agent_reachable": true,
+    "names": {
+        "dhcp": "Samsung",
+        "host": "Samsung.localdomain",
+        "bonjour": "Samsung Q6 Series (75)",
+        "upnp": "[TV] Samsung Q6 Series (75"
+    },
+    "protocol": "IP",
+    "model": "QA75Q6FNA",
+    "type": {
+        "detected_id": 8,
+        "id": 19
+    },
+    "id": 3486151
+},
+{
+    "status": "ONLINE",
+    "grace_period": 120,
+    "display_name": "Push Processor",
+    "first_seen_on": "2019-05-10T05:29:38+00:00",
+    "importance": "VITAL",
+    "ip_addresses": [
+        "192.168.0.10"
+    ],
+    "hw_address": "94:4A:09:01:05:DB",
+    "user_data": {
+        "vendor": "Push Controls",
+        "model": "PC1",
+        "type": 2,
+        "name": "Push Processor"
+    },
+    "vendor": "BitWise Controls",
+    "is_jammed": false,
+    "last_status_change": "2019-11-21T06:25:45+00:00",
+    "agent_reachable": true,
+    "names": {
+        "host": ""
+    },
+    "protocol": "IP",
+    "id": 3486169
+},
+{
+    "status": "DOWN",
+    "grace_period": 120,
+    "display_name": "Olivias-iPhone",
+    "first_seen_on": "2019-05-12T01:04:19+00:00",
+    "importance": "FLOATING",
+    "ip_addresses": [
+        "192.168.0.175"
+    ],
+    "hw_address": "70:EF:00:00:2A:43",
+    "vendor": "Apple, Inc.",
+    "is_jammed": false,
+    "last_status_change": "2019-11-21T20:49:43+00:00",
+    "agent_reachable": true,
+    "names": {
+        "dhcp": "Olivias-iPhone",
+        "host": ""
+    },
+    "protocol": "IP",
+    "model": "iPhone",
+    "type": {
+        "detected_id": 4,
+        "id": 9
+    },
+    "id": 3492727
+},
+{
+    "status": "DOWN",
+    "grace_period": 120,
+    "display_name": "Magri ",
+    "first_seen_on": "2019-05-12T01:04:19+00:00",
+    "importance": "FLOATING",
+    "ip_addresses": [
+        "192.168.0.176"
+    ],
+    "hw_address": "A4:D1:8C:C9:6D:32",
+    "vendor": "Apple, Inc.",
+    "is_jammed": false,
+    "last_status_change": "2019-11-18T10:57:06+00:00",
+    "agent_reachable": true,
+    "names": {
+        "dhcp": "Magri",
+        "host": "Magri.localdomain",
+        "bonjour": "Magri ",
+        "upnp": "BRAVIA KD-79X9000B"
+    },
+    "protocol": "IP",
+    "model": "MacBook Air",
+    "type": {
+        "detected_id": 14,
+        "id": 20
+    },
+    "id": 3492728
+},
+{
+    "status": "DOWN",
+    "grace_period": 120,
+    "display_name": "diana-laptop2",
+    "first_seen_on": "2019-05-12T05:21:00+00:00",
+    "importance": "FLOATING",
+    "ip_addresses": [
+        "192.168.0.133"
+    ],
+    "hw_address": "38:B1:DB:37:19:D3",
+    "vendor": "Hon Hai Precision Ind. Co.,Ltd.",
+    "is_jammed": false,
+    "last_status_change": "2019-11-22T01:03:17+00:00",
+    "agent_reachable": true,
+    "names": {
+        "dhcp": "diana_laptop2",
+        "host": "diana_laptop2.localdomain",
+        "upnp": "DIANA_LAPTOP2: Diana:"
+    },
+    "protocol": "IP",
+    "type": {
+        "detected_id": 14,
+        "id": 20
+    },
+    "id": 3492863
+},
+{
+    "status": "DOWN",
+    "grace_period": 120,
+    "display_name": "Vinces-iphone",
+    "first_seen_on": "2019-05-12T06:36:04+00:00",
+    "importance": "FLOATING",
+    "ip_addresses": [
+        "192.168.0.194"
+    ],
+    "hw_address": "34:08:BC:D3:E3:74",
+    "vendor": "Apple, Inc.",
+    "is_jammed": false,
+    "last_status_change": "2019-11-21T20:49:43+00:00",
+    "agent_reachable": true,
+    "names": {
+        "dhcp": "Vinces-iphone",
+        "host": "",
+        "bonjour": "34:08:bc:d3:e3:74@fe80::3608:bcff:fed3:e374"
+    },
+    "protocol": "IP",
+    "model": "iPhone",
+    "type": {
+        "detected_id": 4,
+        "id": 9
+    },
+    "id": 3492939
+},
+{
+    "status": "ONLINE",
+    "grace_period": 120,
+    "display_name": "iPad (4)",
+    "first_seen_on": "2019-05-12T06:36:04+00:00",
+    "importance": "FLOATING",
+    "ip_addresses": [
+        "192.168.0.218"
+    ],
+    "hw_address": "34:A8:EB:20:E9:C0",
+    "vendor": "Apple, Inc.",
+    "is_jammed": false,
+    "last_status_change": "2019-11-22T03:53:09+00:00",
+    "agent_reachable": true,
+    "names": {
+        "dhcp": "iPad-4",
+        "host": "",
+        "bonjour": "iPad (4)"
+    },
+    "protocol": "IP",
+    "model": "iPad",
+    "type": {
+        "detected_id": 5,
+        "id": 10
+    },
+    "id": 3492940
+},
+{
+    "status": "DOWN",
+    "grace_period": 120,
+    "display_name": "Jacobs-iPhone",
+    "first_seen_on": "2019-05-12T09:50:58+00:00",
+    "importance": "FLOATING",
+    "ip_addresses": [
+        "192.168.0.177"
+    ],
+    "hw_address": "E0:33:8E:76:64:28",
+    "vendor": "Apple, Inc.",
+    "is_jammed": false,
+    "last_status_change": "2019-11-21T20:59:47+00:00",
+    "agent_reachable": true,
+    "names": {
+        "dhcp": "Jacobs-iPhone",
+        "host": "Jacobs-iPhone.localdomain"
+    },
+    "protocol": "IP",
+    "model": "iPhone",
+    "type": {
+        "detected_id": 4,
+        "id": 9
+    },
+    "id": 3493271
+},
+{
+    "status": "DOWN",
+    "grace_period": 120,
+    "display_name": "Kayla Martin 6JL",
+    "first_seen_on": "2019-05-13T06:21:57+00:00",
+    "importance": "FLOATING",
+    "ip_addresses": [
+        "192.168.0.192"
+    ],
+    "hw_address": "4C:32:75:67:E5:AE",
+    "vendor": "Apple, Inc.",
+    "is_jammed": false,
+    "last_status_change": "2019-11-20T05:22:00+00:00",
+    "agent_reachable": true,
+    "names": {
+        "dhcp": "KaylaMartin6JL",
+        "host": "",
+        "bonjour": "Kayla Martin 6JL"
+    },
+    "protocol": "IP",
+    "model": "iPad",
+    "type": {
+        "detected_id": 5,
+        "id": 10
+    },
+    "id": 3495609
+},
+{
+    "status": "DOWN",
+    "grace_period": 120,
+    "display_name": "iPhone",
+    "first_seen_on": "2019-05-13T06:21:57+00:00",
+    "importance": "FLOATING",
+    "ip_addresses": [
+        "192.168.0.193"
+    ],
+    "hw_address": "78:7B:8A:EA:F0:60",
+    "vendor": "Apple, Inc.",
+    "is_jammed": false,
+    "last_status_change": "2019-11-20T05:22:53+00:00",
+    "agent_reachable": true,
+    "names": {
+        "dhcp": "iPhone",
+        "host": ""
+    },
+    "protocol": "IP",
+    "model": "iPhone",
+    "type": {
+        "detected_id": 4,
+        "id": 9
+    },
+    "id": 3495610
+},
+{
+    "status": "DOWN",
+    "grace_period": 120,
+    "display_name": "Olivias-IPad-2",
+    "first_seen_on": "2019-05-14T01:26:24+00:00",
+    "importance": "FLOATING",
+    "ip_addresses": [
+        "192.168.0.180"
+    ],
+    "hw_address": "2C:1F:23:5A:0B:43",
+    "vendor": "Apple, Inc.",
+    "is_jammed": false,
+    "last_status_change": "2019-11-20T05:52:55+00:00",
+    "agent_reachable": true,
+    "names": {
+        "dhcp": "Olivias-IPad-2",
+        "host": ""
+    },
+    "protocol": "IP",
+    "model": "iPad",
+    "type": {
+        "detected_id": 5,
+        "id": 10
+    },
+    "id": 3499072
+},
+{
+    "status": "DOWN",
+    "grace_period": 120,
+    "display_name": "Aaron\u2019s MacBook Pro (2)",
+    "first_seen_on": "2019-05-14T05:14:53+00:00",
+    "importance": "FLOATING",
+    "ip_addresses": [
+        "192.168.0.233"
+    ],
+    "hw_address": "AC:87:A3:36:06:76",
+    "vendor": "Apple, Inc.",
+    "is_jammed": false,
+    "last_status_change": "2019-08-01T06:52:12+00:00",
+    "agent_reachable": true,
+    "names": {
+        "dhcp": "Aarons-MBP",
+        "host": "",
+        "bonjour": "Aaron\u2019s MacBook Pro (2)"
+    },
+    "protocol": "IP",
+    "model": "MacBook",
+    "type": {
+        "detected_id": 35,
+        "id": 4
+    },
+    "id": 3499282
+},
+{
+    "status": "DOWN",
+    "grace_period": 120,
+    "display_name": "Rr-Iphone",
+    "first_seen_on": "2019-05-14T06:34:04+00:00",
+    "importance": "FLOATING",
+    "ip_addresses": [
+        "192.168.0.206"
+    ],
+    "hw_address": "34:08:BC:63:77:3E",
+    "vendor": "Apple, Inc.",
+    "is_jammed": false,
+    "last_status_change": "2019-11-05T01:15:27+00:00",
+    "agent_reachable": true,
+    "names": {
+        "dhcp": "Rr-Iphone",
+        "host": ""
+    },
+    "protocol": "IP",
+    "model": "iPhone",
+    "type": {
+        "detected_id": 4,
+        "id": 9
+    },
+    "id": 3499627
+},
+{
+    "status": "DOWN",
+    "grace_period": 120,
+    "display_name": "[LG] webOS TV UK6340PTF",
+    "first_seen_on": "2019-05-14T06:34:04+00:00",
+    "importance": "FLOATING",
+    "ip_addresses": [
+        "192.168.0.179"
+    ],
+    "hw_address": "A8:23:FE:97:BF:32",
+    "vendor": "LG Electronics",
+    "is_jammed": false,
+    "last_status_change": "2019-11-21T20:27:45+00:00",
+    "agent_reachable": true,
+    "names": {
+        "dhcp": "LGwebOSTV",
+        "host": "",
+        "bonjour": "[LG] webOS TV UK6340PTF",
+        "upnp": "[LG] webOS TV UK6340PTF"
+    },
+    "protocol": "IP",
+    "type": {
+        "detected_id": 14,
+        "id": 20
+    },
+    "id": 3499628
+},
+{
+    "status": "ONLINE",
+    "grace_period": 120,
+    "display_name": "APC PDU",
+    "first_seen_on": "2019-05-14T07:04:21+00:00",
+    "importance": "VITAL",
+    "ip_addresses": [
+        "192.168.0.253"
+    ],
+    "hw_address": "28:29:86:10:06:35",
+    "user_data": {
+        "name": "APC PDU"
+    },
+    "vendor": "APC by Schneider Electric",
+    "is_jammed": false,
+    "last_status_change": "2019-11-21T06:25:45+00:00",
+    "agent_reachable": true,
+    "names": {
+        "dhcp": "apc100635",
+        "host": "apc100635.localdomain",
+        "snmp": "apc100635"
+    },
+    "protocol": "IP",
+    "model": "AP7920B",
+    "type": {
+        "detected_id": 206,
+        "id": 14
+    },
+    "id": 3499735
+},
+{
+    "status": "ONLINE",
+    "grace_period": 120,
+    "display_name": "Foxtel",
+    "first_seen_on": "2019-05-14T07:04:21+00:00",
+    "importance": "VITAL",
+    "ip_addresses": [
+        "192.168.0.33"
+    ],
+    "hw_address": "D8:25:22:72:6F:AA",
+    "user_data": {
+        "type": 20,
+        "name": "Foxtel"
+    },
+    "vendor": "ARRIS Group, Inc.",
+    "is_jammed": false,
+    "last_status_change": "2019-11-21T06:26:44+00:00",
+    "agent_reachable": true,
+    "names": {
+        "host": ""
+    },
+    "protocol": "IP",
+    "id": 3499736
+},
+{
+    "status": "DOWN",
+    "grace_period": 120,
+    "display_name": "Reubens-MBP",
+    "first_seen_on": "2019-05-14T07:34:49+00:00",
+    "importance": "FLOATING",
+    "ip_addresses": [
+        "192.168.0.202"
+    ],
+    "hw_address": "78:4F:43:82:16:85",
+    "vendor": "Apple, Inc.",
+    "is_jammed": false,
+    "last_status_change": "2019-05-29T10:36:52+00:00",
+    "agent_reachable": true,
+    "names": {
+        "dhcp": "Reubens-MBP",
+        "host": "Reubens-MBP.localdomain"
+    },
+    "protocol": "IP",
+    "model": "MacBook PRO",
+    "type": {
+        "detected_id": 35,
+        "id": 4
+    },
+    "id": 3499985
+},
+{
+    "status": "DOWN",
+    "grace_period": 120,
+    "display_name": "19-R90RUB0R",
+    "first_seen_on": "2019-05-15T07:03:16+00:00",
+    "importance": "FLOATING",
+    "ip_addresses": [
+        "192.168.0.124"
+    ],
+    "hw_address": "48:A4:72:9C:5B:0D",
+    "vendor": "Intel Corporate",
+    "is_jammed": false,
+    "last_status_change": "2019-11-21T10:44:51+00:00",
+    "agent_reachable": true,
+    "names": {
+        "dhcp": "19-R90RUB0R",
+        "host": ""
+    },
+    "protocol": "IP",
+    "type": {
+        "detected_id": 36,
+        "id": 31
+    },
+    "id": 3504947
+},
+{
+    "status": "DOWN",
+    "grace_period": 120,
+    "display_name": "Luxul Uplink",
+    "first_seen_on": "2019-05-16T00:22:47+00:00",
+    "importance": "FLOATING",
+    "ip_addresses": [
+        "192.168.100.1"
+    ],
+    "user_data": {
+        "type": 19,
+        "name": "Luxul Uplink"
+    },
+    "vendor": "Unknown",
+    "last_status_change": "2019-11-21T04:08:14+00:00",
+    "agent_reachable": true,
+    "names": {
+        "host": ""
+    },
+    "protocol": "IP_SUBNET",
+    "id": 3508665
+},
+{
+    "status": "DOWN",
+    "grace_period": 120,
+    "display_name": "192.168.100.2",
+    "first_seen_on": "2019-05-16T00:22:47+00:00",
+    "importance": "FLOATING",
+    "ip_addresses": [
+        "192.168.100.2"
+    ],
+    "user_data": {
+        "type": 19
+    },
+    "vendor": "Unknown",
+    "last_status_change": "2019-11-21T04:08:14+00:00",
+    "agent_reachable": true,
+    "names": {
+        "host": ""
+    },
+    "protocol": "IP_SUBNET",
+    "id": 3508666
+},
+{
+    "status": "DOWN",
+    "grace_period": 120,
+    "display_name": "192.168.100.5",
+    "first_seen_on": "2019-05-16T00:22:47+00:00",
+    "importance": "FLOATING",
+    "ip_addresses": [
+        "192.168.100.5"
+    ],
+    "user_data": {
+        "type": 19
+    },
+    "vendor": "Unknown",
+    "last_status_change": "2019-11-21T04:08:14+00:00",
+    "agent_reachable": true,
+    "names": {
+        "host": ""
+    },
+    "protocol": "IP_SUBNET",
+    "id": 3508667
+},
+{
+    "status": "DOWN",
+    "grace_period": 120,
+    "display_name": "192.168.100.6",
+    "first_seen_on": "2019-05-16T00:22:47+00:00",
+    "importance": "FLOATING",
+    "ip_addresses": [
+        "192.168.100.6"
+    ],
+    "user_data": {
+        "type": 19
+    },
+    "vendor": "Unknown",
+    "last_status_change": "2019-11-21T04:08:14+00:00",
+    "agent_reachable": true,
+    "names": {
+        "host": ""
+    },
+    "protocol": "IP_SUBNET",
+    "id": 3508668
+},
+{
+    "status": "DOWN",
+    "grace_period": 120,
+    "display_name": "192.168.100.9",
+    "first_seen_on": "2019-05-16T00:22:47+00:00",
+    "importance": "FLOATING",
+    "ip_addresses": [
+        "192.168.100.9"
+    ],
+    "user_data": {
+        "type": 19
+    },
+    "vendor": "Unknown",
+    "last_status_change": "2019-11-21T04:08:14+00:00",
+    "agent_reachable": true,
+    "names": {
+        "host": ""
+    },
+    "protocol": "IP_SUBNET",
+    "id": 3508669
+},
+{
+    "status": "DOWN",
+    "grace_period": 120,
+    "display_name": "192.168.100.10",
+    "first_seen_on": "2019-05-16T00:22:47+00:00",
+    "importance": "FLOATING",
+    "ip_addresses": [
+        "192.168.100.10"
+    ],
+    "user_data": {
+        "type": 19
+    },
+    "vendor": "Unknown",
+    "last_status_change": "2019-11-21T04:08:14+00:00",
+    "agent_reachable": true,
+    "names": {
+        "host": ""
+    },
+    "protocol": "IP_SUBNET",
+    "id": 3508670
+},
+{
+    "status": "DOWN",
+    "grace_period": 120,
+    "display_name": "192.168.100.13",
+    "first_seen_on": "2019-05-16T00:22:47+00:00",
+    "importance": "FLOATING",
+    "ip_addresses": [
+        "192.168.100.13"
+    ],
+    "user_data": {
+        "type": 19
+    },
+    "vendor": "Unknown",
+    "last_status_change": "2019-11-21T04:08:14+00:00",
+    "agent_reachable": true,
+    "names": {
+        "host": ""
+    },
+    "protocol": "IP_SUBNET",
+    "id": 3508671
+},
+{
+    "status": "DOWN",
+    "grace_period": 120,
+    "display_name": "192.168.100.14",
+    "first_seen_on": "2019-05-16T00:22:47+00:00",
+    "importance": "FLOATING",
+    "ip_addresses": [
+        "192.168.100.14"
+    ],
+    "user_data": {
+        "type": 19
+    },
+    "vendor": "Unknown",
+    "last_status_change": "2019-11-21T04:08:14+00:00",
+    "agent_reachable": true,
+    "names": {
+        "host": ""
+    },
+    "protocol": "IP_SUBNET",
+    "id": 3508672
+},
+{
+    "status": "DOWN",
+    "grace_period": 120,
+    "display_name": "192.168.100.17",
+    "first_seen_on": "2019-05-16T00:22:47+00:00",
+    "importance": "FLOATING",
+    "ip_addresses": [
+        "192.168.100.17"
+    ],
+    "user_data": {
+        "type": 19
+    },
+    "vendor": "Unknown",
+    "last_status_change": "2019-11-21T04:08:14+00:00",
+    "agent_reachable": true,
+    "names": {
+        "host": ""
+    },
+    "protocol": "IP_SUBNET",
+    "id": 3508673
+},
+{
+    "status": "DOWN",
+    "grace_period": 120,
+    "display_name": "192.168.100.18",
+    "first_seen_on": "2019-05-16T00:22:47+00:00",
+    "importance": "FLOATING",
+    "ip_addresses": [
+        "192.168.100.18"
+    ],
+    "user_data": {
+        "type": 19
+    },
+    "vendor": "Unknown",
+    "last_status_change": "2019-11-21T04:08:14+00:00",
+    "agent_reachable": true,
+    "names": {
+        "host": ""
+    },
+    "protocol": "IP_SUBNET",
+    "id": 3508674
+},
+{
+    "status": "DOWN",
+    "grace_period": 120,
+    "display_name": "192.168.100.21",
+    "first_seen_on": "2019-05-16T00:22:47+00:00",
+    "importance": "FLOATING",
+    "ip_addresses": [
+        "192.168.100.21"
+    ],
+    "user_data": {
+        "type": 19
+    },
+    "vendor": "Unknown",
+    "last_status_change": "2019-11-21T04:08:14+00:00",
+    "agent_reachable": true,
+    "names": {
+        "host": ""
+    },
+    "protocol": "IP_SUBNET",
+    "id": 3508675
+},
+{
+    "status": "DOWN",
+    "grace_period": 120,
+    "display_name": "192.168.100.22",
+    "first_seen_on": "2019-05-16T00:22:47+00:00",
+    "importance": "FLOATING",
+    "ip_addresses": [
+        "192.168.100.22"
+    ],
+    "user_data": {
+        "type": 19
+    },
+    "vendor": "Unknown",
+    "last_status_change": "2019-11-21T04:08:14+00:00",
+    "agent_reachable": true,
+    "names": {
+        "host": ""
+    },
+    "protocol": "IP_SUBNET",
+    "id": 3508676
+},
+{
+    "status": "DOWN",
+    "grace_period": 120,
+    "display_name": "192.168.100.25",
+    "first_seen_on": "2019-05-16T00:22:47+00:00",
+    "importance": "FLOATING",
+    "ip_addresses": [
+        "192.168.100.25"
+    ],
+    "user_data": {
+        "type": 19
+    },
+    "vendor": "Unknown",
+    "last_status_change": "2019-11-21T04:08:14+00:00",
+    "agent_reachable": true,
+    "names": {
+        "host": ""
+    },
+    "protocol": "IP_SUBNET",
+    "id": 3508677
+},
+{
+    "status": "DOWN",
+    "grace_period": 120,
+    "display_name": "192.168.100.26",
+    "first_seen_on": "2019-05-16T00:22:47+00:00",
+    "importance": "FLOATING",
+    "ip_addresses": [
+        "192.168.100.26"
+    ],
+    "user_data": {
+        "type": 19
+    },
+    "vendor": "Unknown",
+    "last_status_change": "2019-11-21T04:08:14+00:00",
+    "agent_reachable": true,
+    "names": {
+        "host": ""
+    },
+    "protocol": "IP_SUBNET",
+    "id": 3508678
+},
+{
+    "status": "DOWN",
+    "grace_period": 120,
+    "display_name": "192.168.100.29",
+    "first_seen_on": "2019-05-16T00:22:47+00:00",
+    "importance": "FLOATING",
+    "ip_addresses": [
+        "192.168.100.29"
+    ],
+    "user_data": {
+        "type": 19
+    },
+    "vendor": "Unknown",
+    "last_status_change": "2019-11-21T04:08:14+00:00",
+    "agent_reachable": true,
+    "names": {
+        "host": ""
+    },
+    "protocol": "IP_SUBNET",
+    "id": 3508679
+},
+{
+    "status": "DOWN",
+    "grace_period": 120,
+    "display_name": "192.168.100.30",
+    "first_seen_on": "2019-05-16T00:22:47+00:00",
+    "importance": "FLOATING",
+    "ip_addresses": [
+        "192.168.100.30"
+    ],
+    "user_data": {
+        "type": 19
+    },
+    "vendor": "Unknown",
+    "last_status_change": "2019-11-21T04:08:14+00:00",
+    "agent_reachable": true,
+    "names": {
+        "host": ""
+    },
+    "protocol": "IP_SUBNET",
+    "id": 3508680
+},
+{
+    "status": "DOWN",
+    "grace_period": 120,
+    "display_name": "192.168.100.129",
+    "first_seen_on": "2019-05-16T00:22:47+00:00",
+    "importance": "FLOATING",
+    "ip_addresses": [
+        "192.168.100.129"
+    ],
+    "user_data": {
+        "type": 19
+    },
+    "vendor": "Unknown",
+    "last_status_change": "2019-11-21T04:08:14+00:00",
+    "agent_reachable": true,
+    "names": {
+        "host": ""
+    },
+    "protocol": "IP_SUBNET",
+    "id": 3508681
+},
+{
+    "status": "DOWN",
+    "grace_period": 120,
+    "display_name": "192.168.100.130",
+    "first_seen_on": "2019-05-16T00:22:47+00:00",
+    "importance": "FLOATING",
+    "ip_addresses": [
+        "192.168.100.130"
+    ],
+    "user_data": {
+        "type": 19
+    },
+    "vendor": "Unknown",
+    "last_status_change": "2019-11-21T04:08:14+00:00",
+    "agent_reachable": true,
+    "names": {
+        "host": ""
+    },
+    "protocol": "IP_SUBNET",
+    "id": 3508682
+},
+{
+    "status": "DOWN",
+    "grace_period": 120,
+    "display_name": "JAP RX - Living Room",
+    "first_seen_on": "2019-05-16T00:22:47+00:00",
+    "importance": "FLOATING",
+    "ip_addresses": [
+        "192.168.100.131"
+    ],
+    "user_data": {
+        "type": 19,
+        "name": "JAP RX - Living Room"
+    },
+    "vendor": "Unknown",
+    "last_status_change": "2019-11-21T04:08:14+00:00",
+    "agent_reachable": true,
+    "names": {
+        "host": ""
+    },
+    "protocol": "IP_SUBNET",
+    "id": 3508683
+},
+{
+    "status": "DOWN",
+    "grace_period": 120,
+    "display_name": "192.168.100.132",
+    "first_seen_on": "2019-05-16T00:22:47+00:00",
+    "importance": "FLOATING",
+    "ip_addresses": [
+        "192.168.100.132"
+    ],
+    "user_data": {
+        "type": 19
+    },
+    "vendor": "Unknown",
+    "last_status_change": "2019-11-21T04:08:14+00:00",
+    "agent_reachable": true,
+    "names": {
+        "host": ""
+    },
+    "protocol": "IP_SUBNET",
+    "id": 3508684
+},
+{
+    "status": "DOWN",
+    "grace_period": 120,
+    "display_name": "192.168.100.133",
+    "first_seen_on": "2019-05-16T00:22:47+00:00",
+    "importance": "FLOATING",
+    "ip_addresses": [
+        "192.168.100.133"
+    ],
+    "user_data": {
+        "type": 19
+    },
+    "vendor": "Unknown",
+    "last_status_change": "2019-11-21T04:08:14+00:00",
+    "agent_reachable": true,
+    "names": {
+        "host": ""
+    },
+    "protocol": "IP_SUBNET",
+    "id": 3508685
+},
+{
+    "status": "DOWN",
+    "grace_period": 120,
+    "display_name": "192.168.100.134",
+    "first_seen_on": "2019-05-16T00:22:47+00:00",
+    "importance": "FLOATING",
+    "ip_addresses": [
+        "192.168.100.134"
+    ],
+    "user_data": {
+        "type": 19
+    },
+    "vendor": "Unknown",
+    "last_status_change": "2019-11-21T04:08:14+00:00",
+    "agent_reachable": true,
+    "names": {
+        "host": ""
+    },
+    "protocol": "IP_SUBNET",
+    "id": 3508686
+},
+{
+    "status": "DOWN",
+    "grace_period": 120,
+    "display_name": "192.168.100.135",
+    "first_seen_on": "2019-05-16T00:22:47+00:00",
+    "importance": "FLOATING",
+    "ip_addresses": [
+        "192.168.100.135"
+    ],
+    "user_data": {
+        "type": 19
+    },
+    "vendor": "Unknown",
+    "last_status_change": "2019-11-21T04:08:14+00:00",
+    "agent_reachable": true,
+    "names": {
+        "host": ""
+    },
+    "protocol": "IP_SUBNET",
+    "id": 3508687
+},
+{
+    "status": "DOWN",
+    "grace_period": 120,
+    "display_name": "192.168.100.136",
+    "first_seen_on": "2019-05-16T00:22:47+00:00",
+    "importance": "FLOATING",
+    "ip_addresses": [
+        "192.168.100.136"
+    ],
+    "user_data": {
+        "type": 19
+    },
+    "vendor": "Unknown",
+    "last_status_change": "2019-11-21T04:08:14+00:00",
+    "agent_reachable": true,
+    "names": {
+        "host": ""
+    },
+    "protocol": "IP_SUBNET",
+    "id": 3508688
+},
+{
+    "status": "DOWN",
+    "grace_period": 120,
+    "display_name": "192.168.100.137",
+    "first_seen_on": "2019-05-16T00:22:47+00:00",
+    "importance": "FLOATING",
+    "ip_addresses": [
+        "192.168.100.137"
+    ],
+    "user_data": {
+        "type": 19
+    },
+    "vendor": "Unknown",
+    "last_status_change": "2019-11-21T04:08:14+00:00",
+    "agent_reachable": true,
+    "names": {
+        "host": ""
+    },
+    "protocol": "IP_SUBNET",
+    "id": 3508689
+},
+{
+    "status": "DOWN",
+    "grace_period": 120,
+    "display_name": "192.168.100.138",
+    "first_seen_on": "2019-05-16T00:22:47+00:00",
+    "importance": "FLOATING",
+    "ip_addresses": [
+        "192.168.100.138"
+    ],
+    "user_data": {
+        "type": 19
+    },
+    "vendor": "Unknown",
+    "last_status_change": "2019-11-21T04:08:14+00:00",
+    "agent_reachable": true,
+    "names": {
+        "host": ""
+    },
+    "protocol": "IP_SUBNET",
+    "id": 3508690
+},
+{
+    "status": "DOWN",
+    "grace_period": 120,
+    "display_name": "192.168.100.139",
+    "first_seen_on": "2019-05-16T00:22:47+00:00",
+    "importance": "FLOATING",
+    "ip_addresses": [
+        "192.168.100.139"
+    ],
+    "user_data": {
+        "type": 19
+    },
+    "vendor": "Unknown",
+    "last_status_change": "2019-11-21T04:08:14+00:00",
+    "agent_reachable": true,
+    "names": {
+        "host": ""
+    },
+    "protocol": "IP_SUBNET",
+    "id": 3508691
+},
+{
+    "status": "DOWN",
+    "grace_period": 120,
+    "display_name": "192.168.100.140",
+    "first_seen_on": "2019-05-16T00:22:47+00:00",
+    "importance": "FLOATING",
+    "ip_addresses": [
+        "192.168.100.140"
+    ],
+    "user_data": {
+        "type": 19
+    },
+    "vendor": "Unknown",
+    "last_status_change": "2019-11-21T04:08:14+00:00",
+    "agent_reachable": true,
+    "names": {
+        "host": ""
+    },
+    "protocol": "IP_SUBNET",
+    "id": 3508692
+},
+{
+    "status": "DOWN",
+    "grace_period": 120,
+    "display_name": "Millies iPod",
+    "first_seen_on": "2019-05-16T00:33:05+00:00",
+    "importance": "FLOATING",
+    "ip_addresses": [
+        "192.168.0.125"
+    ],
+    "hw_address": "C8:B5:B7:68:51:15",
+    "user_data": {
+        "name": "Millies iPod"
+    },
+    "vendor": "Apple, Inc.",
+    "is_jammed": false,
+    "last_status_change": "2019-07-06T08:27:45+00:00",
+    "agent_reachable": true,
+    "names": {
+        "dhcp": "Millies-IPod",
+        "host": "Millies-IPod.localdomain"
+    },
+    "protocol": "IP",
+    "model": "iPod",
+    "type": {
+        "detected_id": 4,
+        "id": 9
+    },
+    "id": 3508701
+},
+{
+    "status": "ONLINE",
+    "grace_period": 120,
+    "display_name": "Integra DHC-80.6",
+    "first_seen_on": "2019-05-16T00:57:14+00:00",
+    "importance": "FLOATING",
+    "ip_addresses": [
+        "192.168.0.252"
+    ],
+    "hw_address": "00:09:B0:4B:40:12",
+    "user_data": {
+        "model": "Integra 80.6",
+        "type": 102,
+        "name": "Integra DHC-80.6"
+    },
+    "vendor": "Onkyo Corporation",
+    "is_jammed": false,
+    "last_status_change": "2019-11-21T06:25:45+00:00",
+    "agent_reachable": true,
+    "names": {
+        "host": "",
+        "bonjour": "SpotifyConnect",
+        "upnp": "DHC-80.6"
+    },
+    "protocol": "IP",
+    "type": {
+        "detected_id": 14,
+        "id": 20
+    },
+    "id": 3508728
+},
+{
+    "status": "DOWN",
+    "grace_period": 120,
+    "display_name": "OPPO Bluray",
+    "first_seen_on": "2019-05-16T00:59:43+00:00",
+    "importance": "FLOATING",
+    "ip_addresses": [
+        "192.168.0.240"
+    ],
+    "hw_address": "00:22:DE:8F:08:CF",
+    "user_data": {
+        "type": 39,
+        "name": "OPPO Bluray"
+    },
+    "vendor": "OPPO Digital, Inc.",
+    "is_jammed": false,
+    "last_status_change": "2019-05-17T01:59:42+00:00",
+    "agent_reachable": true,
+    "names": {
+        "host": "",
+        "upnp": "OPPO BDP-103"
+    },
+    "protocol": "IP",
+    "model": "OPPO BDP-103",
+    "type": {
+        "detected_id": 14,
+        "id": 20
+    },
+    "id": 3508732
+},
+{
+    "status": "ONLINE",
+    "grace_period": 120,
+    "display_name": "QNAP Server",
+    "first_seen_on": "2019-05-16T02:46:32+00:00",
+    "importance": "VITAL",
+    "ip_addresses": [
+        "192.168.0.196"
+    ],
+    "hw_address": "00:08:9B:F2:5B:F1",
+    "user_data": {
+        "name": "QNAP Server"
+    },
+    "vendor": "QNAP",
+    "is_jammed": false,
+    "last_status_change": "2019-11-21T06:30:35+00:00",
+    "agent_reachable": true,
+    "names": {
+        "dhcp": "SERVER\u0000",
+        "host": "SERVER.localdomain",
+        "bonjour": "SERVER",
+        "upnp": "SERVER"
+    },
+    "protocol": "IP",
+    "model": "TS-431U",
+    "type": {
+        "detected_id": 9,
+        "id": 7
+    },
+    "id": 3509005
+},
+{
+    "status": "ONLINE",
+    "grace_period": 120,
+    "display_name": "MGMT-NUC",
+    "first_seen_on": "2019-05-16T03:25:09+00:00",
+    "importance": "FLOATING",
+    "ip_addresses": [
+        "192.168.0.198"
+    ],
+    "hw_address": "F4:4D:30:60:EB:4F",
+    "user_data": {
+        "type": 31
+    },
+    "vendor": "Elitegroup Computer Systems Co.,Ltd.",
+    "is_jammed": false,
+    "last_status_change": "2019-11-21T18:02:12+00:00",
+    "agent_reachable": true,
+    "names": {
+        "dhcp": "MGMT-NUC",
+        "host": "MGMT-NUC.localdomain"
+    },
+    "protocol": "IP",
+    "type": {
+        "detected_id": 14,
+        "id": 20
+    },
+    "id": 3509289
+},
+{
+    "status": "DOWN",
+    "grace_period": 120,
+    "display_name": "JAP RX - Theatre",
+    "first_seen_on": "2019-05-16T03:35:33+00:00",
+    "importance": "FLOATING",
+    "ip_addresses": [
+        "192.168.100.141"
+    ],
+    "user_data": {
+        "type": 19,
+        "name": "JAP RX - Theatre"
+    },
+    "vendor": "Unknown",
+    "last_status_change": "2019-11-21T04:08:14+00:00",
+    "agent_reachable": true,
+    "names": {
+        "host": ""
+    },
+    "protocol": "IP_SUBNET",
+    "id": 3509304
+},
+{
+    "status": "ONLINE",
+    "grace_period": 120,
+    "display_name": "Security Multipath",
+    "first_seen_on": "2019-05-17T04:53:19+00:00",
+    "importance": "VITAL",
+    "ip_addresses": [
+        "192.168.0.186"
+    ],
+    "hw_address": "00:11:B9:01:20:66",
+    "user_data": {
+        "name": "Security Multipath"
+    },
+    "vendor": "Inner Range Pty. Ltd.",
+    "is_jammed": false,
+    "last_status_change": "2019-08-10T13:59:41+00:00",
+    "agent_reachable": true,
+    "names": {
+        "host": ""
+    },
+    "protocol": "IP",
+    "id": 3514670
+},
+{
+    "status": "DOWN",
+    "grace_period": 120,
+    "display_name": "19-R90RUBK9",
+    "first_seen_on": "2019-05-19T21:52:26+00:00",
+    "importance": "FLOATING",
+    "ip_addresses": [
+        "192.168.0.183"
+    ],
+    "hw_address": "48:A4:72:9C:95:F5",
+    "vendor": "Intel Corporate",
+    "is_jammed": false,
+    "last_status_change": "2019-11-21T06:26:44+00:00",
+    "agent_reachable": true,
+    "names": {
+        "dhcp": "19-R90RUBK9",
+        "host": "19-R90RUBK9.localdomain"
+    },
+    "protocol": "IP",
+    "type": {
+        "detected_id": 36,
+        "id": 31
+    },
+    "id": 3524385
+},
+{
+    "status": "ONLINE",
+    "grace_period": 120,
+    "display_name": "dsldevice.lan",
+    "first_seen_on": "2019-05-20T05:28:51+00:00",
+    "importance": "FLOATING",
+    "ip_addresses": [
+        "192.168.10.1"
+    ],
+    "vendor": "Unknown",
+    "last_status_change": "2019-05-20T05:28:51+00:00",
+    "agent_reachable": true,
+    "names": {
+        "host": "dsldevice.lan"
+    },
+    "protocol": "IP_SUBNET",
+    "id": 3525104
+},
+{
+    "status": "ONLINE",
+    "grace_period": 120,
+    "display_name": "192.168.10.254",
+    "first_seen_on": "2019-05-20T05:28:51+00:00",
+    "importance": "FLOATING",
+    "ip_addresses": [
+        "192.168.10.254"
+    ],
+    "vendor": "Unknown",
+    "last_status_change": "2019-05-20T05:28:51+00:00",
+    "agent_reachable": true,
+    "names": {
+        "host": ""
+    },
+    "protocol": "IP_SUBNET",
+    "id": 3525105
+},
+{
+    "status": "ONLINE",
+    "grace_period": 120,
+    "display_name": "Unifi WiFi Switch",
+    "first_seen_on": "2019-05-22T01:43:05+00:00",
+    "importance": "VITAL",
+    "ip_addresses": [
+        "192.168.0.246"
+    ],
+    "hw_address": "18:E8:29:4E:D7:5A",
+    "user_data": {
+        "model": "Unifi 8 POE-60",
+        "type": 6,
+        "name": "Unifi WiFi Switch"
+    },
+    "vendor": "Ubiquiti Networks",
+    "is_jammed": false,
+    "last_status_change": "2019-08-01T05:27:24+00:00",
+    "agent_reachable": true,
+    "names": {
+        "dhcp": "Switch",
+        "host": "Switch.localdomain",
+        "snmp": "Switch"
+    },
+    "protocol": "IP",
+    "model": "USW 8P 60",
+    "type": {
+        "detected_id": 303,
+        "id": 28
+    },
+    "id": 3533269
+},
+{
+    "status": "ONLINE",
+    "grace_period": 120,
+    "display_name": "Unifi - Pump Room AP",
+    "first_seen_on": "2019-05-22T01:43:05+00:00",
+    "importance": "VITAL",
+    "ip_addresses": [
+        "192.168.0.242"
+    ],
+    "hw_address": "18:E8:29:56:4B:6D",
+    "user_data": {
+        "type": 32,
+        "name": "Unifi - Pump Room AP"
+    },
+    "vendor": "Ubiquiti Networks",
+    "is_jammed": false,
+    "last_status_change": "2019-11-06T00:24:08+00:00",
+    "agent_reachable": true,
+    "names": {
+        "dhcp": "PumpRoom",
+        "host": "PumpRoom.localdomain",
+        "inspection": "PumpRoom",
+        "snmp": "PumpRoom"
+    },
+    "protocol": "IP",
+    "model": "U7MSH",
+    "type": {
+        "detected_id": 39,
+        "id": 32
+    },
+    "id": 3533270
+},
+{
+    "status": "ONLINE",
+    "grace_period": 120,
+    "display_name": "Unifi - Alfresco AP",
+    "first_seen_on": "2019-05-22T01:43:05+00:00",
+    "importance": "VITAL",
+    "ip_addresses": [
+        "192.168.0.243"
+    ],
+    "hw_address": "18:E8:29:56:4B:9C",
+    "user_data": {
+        "type": 32,
+        "name": "Unifi - Alfresco AP"
+    },
+    "vendor": "Ubiquiti Networks",
+    "is_jammed": false,
+    "last_status_change": "2019-11-21T06:26:44+00:00",
+    "agent_reachable": true,
+    "names": {
+        "dhcp": "Alfresco",
+        "host": "Alfresco.localdomain",
+        "inspection": "Alfresco",
+        "snmp": "Alfresco"
+    },
+    "protocol": "IP",
+    "model": "U7MSH",
+    "type": {
+        "detected_id": 39,
+        "id": 32
+    },
+    "id": 3533271
+},
+{
+    "status": "ONLINE",
+    "grace_period": 120,
+    "display_name": "InetGate.localdomain",
+    "first_seen_on": "2019-05-22T02:48:19+00:00",
+    "importance": "FLOATING",
+    "ip_addresses": [
+        "192.168.0.229"
+    ],
+    "hw_address": "54:10:EC:73:C5:98",
+    "vendor": "Microchip Technology, Inc.",
+    "is_jammed": false,
+    "last_status_change": "2019-11-21T06:25:45+00:00",
+    "agent_reachable": true,
+    "names": {
+        "host": "InetGate.localdomain"
+    },
+    "protocol": "IP",
+    "id": 3533315
+},
+{
+    "status": "ONLINE",
+    "grace_period": 120,
+    "display_name": "Pump Room Switch",
+    "first_seen_on": "2019-05-22T02:48:19+00:00",
+    "importance": "FLOATING",
+    "ip_addresses": [
+        "192.168.0.158"
+    ],
+    "hw_address": "B0:39:56:7C:38:95",
+    "user_data": {
+        "name": "Pump Room Switch"
+    },
+    "vendor": "Netgear",
+    "is_jammed": false,
+    "last_status_change": "2019-11-21T06:25:45+00:00",
+    "agent_reachable": true,
+    "names": {
+        "host": ""
+    },
+    "protocol": "IP",
+    "type": {
+        "detected_id": 12,
+        "id": 6
+    },
+    "id": 3533316
+},
+{
+    "status": "ONLINE",
+    "grace_period": 120,
+    "display_name": "Domotz",
+    "first_seen_on": "2019-05-22T02:49:00+00:00",
+    "importance": "FLOATING",
+    "ip_addresses": [
+        "192.168.0.184"
+    ],
+    "hw_address": "70:B3:D5:31:7E:6F",
+    "user_data": {
+        "name": "Domotz"
+    },
+    "vendor": "Raspberry",
+    "is_jammed": false,
+    "last_status_change": "2019-11-21T06:25:45+00:00",
+    "agent_reachable": true,
+    "names": {
+        "dhcp": "raspberrypi",
+        "host": "",
+        "bonjour": "raspberrypi-2"
+    },
+    "protocol": "IP",
+    "model": "Raspberry Pi",
+    "type": {
+        "detected_id": 122,
+        "id": 24
+    },
+    "id": 3533318
+},
+{
+    "status": "OFFLINE",
+    "grace_period": 120,
+    "display_name": "iPad-2",
+    "first_seen_on": "2019-05-22T05:15:00+00:00",
+    "importance": "FLOATING",
+    "ip_addresses": [
+        "192.168.0.164"
+    ],
+    "hw_address": "9C:64:8B:C8:EB:7D",
+    "vendor": "Apple, Inc.",
+    "is_jammed": false,
+    "last_status_change": "2019-11-22T04:02:24+00:00",
+    "agent_reachable": true,
+    "names": {
+        "dhcp": "iPad-2",
+        "host": ""
+    },
+    "protocol": "IP",
+    "model": "iPad",
+    "type": {
+        "detected_id": 5,
+        "id": 10
+    },
+    "id": 3533619
+},
+{
+    "status": "DOWN",
+    "grace_period": 120,
+    "display_name": "[LG] webOS TV UK6340PTF_97:be",
+    "first_seen_on": "2019-05-22T23:54:47+00:00",
+    "importance": "FLOATING",
+    "ip_addresses": [
+        "192.168.0.197"
+    ],
+    "hw_address": "A8:23:FE:97:BE:41",
+    "vendor": "LG Electronics",
+    "is_jammed": false,
+    "last_status_change": "2019-11-21T20:32:45+00:00",
+    "agent_reachable": true,
+    "names": {
+        "dhcp": "LGwebOSTV",
+        "host": "",
+        "bonjour": "[LG] webOS TV UK6340PTF_97:be",
+        "upnp": "[LG] webOS TV UK6340PTF"
+    },
+    "protocol": "IP",
+    "type": {
+        "detected_id": 14,
+        "id": 20
+    },
+    "id": 3538845
+},
+{
+    "status": "DOWN",
+    "grace_period": 120,
+    "display_name": "[LG] webOS TV UK6340PTF",
+    "first_seen_on": "2019-05-22T23:54:47+00:00",
+    "importance": "FLOATING",
+    "ip_addresses": [
+        "192.168.0.135"
+    ],
+    "hw_address": "A8:23:FE:99:37:C7",
+    "vendor": "LG Electronics",
+    "is_jammed": false,
+    "last_status_change": "2019-11-21T07:10:16+00:00",
+    "agent_reachable": true,
+    "names": {
+        "dhcp": "LGwebOSTV",
+        "host": "",
+        "bonjour": "[LG] webOS TV UK6340PTF",
+        "upnp": "[LG] webOS TV UK6340PTF"
+    },
+    "protocol": "IP",
+    "type": {
+        "detected_id": 14,
+        "id": 20
+    },
+    "id": 3538846
+},
+{
+    "status": "DOWN",
+    "grace_period": 120,
+    "display_name": "JS.localdomain",
+    "first_seen_on": "2019-05-25T08:02:41+00:00",
+    "importance": "FLOATING",
+    "ip_addresses": [
+        "192.168.0.246"
+    ],
+    "hw_address": "F0:DB:E2:94:42:F8",
+    "vendor": "Apple, Inc.",
+    "is_jammed": false,
+    "last_status_change": "2019-05-25T12:11:33+00:00",
+    "agent_reachable": true,
+    "names": {
+        "host": "JS.localdomain"
+    },
+    "protocol": "IP",
+    "model": "iPhone",
+    "type": {
+        "detected_id": 4,
+        "id": 9
+    },
+    "id": 3549993
+},
+{
+    "status": "ONLINE",
+    "grace_period": 120,
+    "display_name": "Vinces-iPad",
+    "first_seen_on": "2019-05-25T10:38:05+00:00",
+    "importance": "FLOATING",
+    "ip_addresses": [
+        "192.168.0.168"
+    ],
+    "hw_address": "34:A8:EB:2F:EA:91",
+    "vendor": "Apple, Inc.",
+    "is_jammed": false,
+    "last_status_change": "2019-11-22T04:04:11+00:00",
+    "agent_reachable": true,
+    "names": {
+        "dhcp": "Vinces-iPad",
+        "host": ""
+    },
+    "protocol": "IP",
+    "model": "iPad",
+    "type": {
+        "detected_id": 5,
+        "id": 10
+    },
+    "id": 3550468
+},
+{
+    "status": "DOWN",
+    "grace_period": 120,
+    "display_name": "iPhone",
+    "first_seen_on": "2019-05-26T06:34:21+00:00",
+    "importance": "FLOATING",
+    "ip_addresses": [
+        "192.168.0.154"
+    ],
+    "hw_address": "54:72:4F:7D:8B:F0",
+    "vendor": "Apple, Inc.",
+    "is_jammed": false,
+    "last_status_change": "2019-11-20T11:13:07+00:00",
+    "agent_reachable": true,
+    "names": {
+        "dhcp": "iPhone",
+        "host": ""
+    },
+    "protocol": "IP",
+    "model": "iPhone",
+    "type": {
+        "detected_id": 4,
+        "id": 9
+    },
+    "id": 3552777
+},
+{
+    "status": "DOWN",
+    "grace_period": 120,
+    "display_name": "Canon EOS 200D",
+    "first_seen_on": "2019-05-26T08:09:13+00:00",
+    "importance": "FLOATING",
+    "ip_addresses": [
+        "192.168.0.247"
+    ],
+    "hw_address": "74:BF:C0:55:E5:9B",
+    "vendor": "CANON INC.",
+    "is_jammed": false,
+    "last_status_change": "2019-06-29T09:09:09+00:00",
+    "agent_reachable": true,
+    "names": {
+        "host": "",
+        "upnp": "Canon EOS 200D"
+    },
+    "protocol": "IP",
+    "id": 3553041
+},
+{
+    "status": "ONLINE",
+    "grace_period": 120,
+    "display_name": "iPad (3)",
+    "first_seen_on": "2019-05-27T22:01:24+00:00",
+    "importance": "FLOATING",
+    "ip_addresses": [
+        "192.168.0.240"
+    ],
+    "hw_address": "9C:64:8B:C9:94:12",
+    "vendor": "Apple, Inc.",
+    "is_jammed": false,
+    "last_status_change": "2019-11-22T04:05:13+00:00",
+    "agent_reachable": true,
+    "names": {
+        "dhcp": "iPad-3",
+        "host": "",
+        "bonjour": "iPad (3)"
+    },
+    "protocol": "IP",
+    "model": "iPad",
+    "type": {
+        "detected_id": 5,
+        "id": 10
+    },
+    "id": 3559379
+},
+{
+    "status": "DOWN",
+    "grace_period": 120,
+    "display_name": "[TV] UA55J6200",
+    "first_seen_on": "2019-05-28T03:27:35+00:00",
+    "importance": "FLOATING",
+    "ip_addresses": [
+        "192.168.0.202"
+    ],
+    "hw_address": "84:A4:66:DB:30:61",
+    "vendor": "Samsung",
+    "is_jammed": false,
+    "last_status_change": "2019-11-21T07:09:18+00:00",
+    "agent_reachable": true,
+    "names": {
+        "dhcp": "localhost",
+        "host": "",
+        "upnp": "[TV] UA55J6200"
+    },
+    "protocol": "IP",
+    "model": "UA55J6200",
+    "type": {
+        "detected_id": 8,
+        "id": 19
+    },
+    "id": 3559624
+},
+{
+    "status": "ONLINE",
+    "grace_period": 120,
+    "display_name": "00:17:DD:04:34:CA",
+    "first_seen_on": "2019-05-29T06:12:49+00:00",
+    "importance": "FLOATING",
+    "ip_addresses": [
+        "192.168.0.249"
+    ],
+    "hw_address": "00:17:DD:04:34:CA",
+    "vendor": "Clipsal Australia",
+    "is_jammed": false,
+    "last_status_change": "2019-11-21T06:26:44+00:00",
+    "agent_reachable": true,
+    "names": {
+        "host": ""
+    },
+    "protocol": "IP",
+    "type": {
+        "detected_id": 4,
+        "id": 9
+    },
+    "id": 3564007
+},
+{
+    "status": "ONLINE",
+    "grace_period": 120,
+    "display_name": "Connect /Basketball Court/",
+    "first_seen_on": "2019-05-29T09:54:15+00:00",
+    "importance": "VITAL",
+    "ip_addresses": [
+        "192.168.0.149"
+    ],
+    "hw_address": "94:9F:3E:B9:EE:82",
+    "user_data": {
+        "name": "Connect /Basketball Court/"
+    },
+    "vendor": "Sonos, Inc.",
+    "is_jammed": false,
+    "last_status_change": "2019-11-21T06:25:45+00:00",
+    "agent_reachable": true,
+    "names": {
+        "dhcp": "SonosZP",
+        "host": "SonosZP.localdomain",
+        "inspection": "Connect /Basketball Court/",
+        "bonjour": "sonos949F3EB9EE82",
+        "upnp": "Sonos Connect"
+    },
+    "protocol": "IP",
+    "model": "sonos connect",
+    "type": {
+        "detected_id": 228,
+        "id": 21
+    },
+    "id": 3565464
+},
+{
+    "status": "DOWN",
+    "grace_period": 120,
+    "display_name": "iPhone",
+    "first_seen_on": "2019-06-10T02:25:32+00:00",
+    "importance": "FLOATING",
+    "ip_addresses": [
+        "192.168.0.111"
+    ],
+    "hw_address": "74:B5:87:28:7A:76",
+    "vendor": "Apple, Inc.",
+    "is_jammed": false,
+    "last_status_change": "2019-11-02T01:38:58+00:00",
+    "agent_reachable": true,
+    "names": {
+        "dhcp": "iPhone",
+        "host": ""
+    },
+    "protocol": "IP",
+    "model": "iPhone",
+    "type": {
+        "detected_id": 4,
+        "id": 9
+    },
+    "id": 3607128
+},
+{
+    "status": "DOWN",
+    "grace_period": 120,
+    "display_name": "DESKTOP-8IB44LQ",
+    "first_seen_on": "2019-06-12T00:00:51+00:00",
+    "importance": "FLOATING",
+    "ip_addresses": [
+        "192.168.0.253"
+    ],
+    "hw_address": "9C:B6:D0:FC:B2:73",
+    "vendor": "Rivet Networks",
+    "is_jammed": false,
+    "last_status_change": "2019-10-07T17:53:21+00:00",
+    "agent_reachable": true,
+    "names": {
+        "host": "apc100635.localdomain"
+    },
+    "protocol": "IP",
+    "type": {
+        "detected_id": 36,
+        "id": 31
+    },
+    "id": 3615376
+},
+{
+    "status": "DOWN",
+    "grace_period": 120,
+    "display_name": "Dhilon",
+    "first_seen_on": "2019-06-12T00:07:52+00:00",
+    "importance": "FLOATING",
+    "ip_addresses": [
+        "192.168.0.254"
+    ],
+    "hw_address": "38:53:9C:26:E5:4B",
+    "vendor": "Apple, Inc.",
+    "is_jammed": false,
+    "last_status_change": "2019-06-12T07:34:57+00:00",
+    "agent_reachable": true,
+    "names": {
+        "dhcp": "Dhilon",
+        "host": "Dhilon.localdomain"
+    },
+    "protocol": "IP",
+    "model": "iPhone",
+    "type": {
+        "detected_id": 4,
+        "id": 9
+    },
+    "id": 3615381
+},
+{
+    "status": "DOWN",
+    "grace_period": 120,
+    "display_name": "Luxul Video Switch",
+    "first_seen_on": "2019-06-12T00:57:19+00:00",
+    "importance": "VITAL",
+    "ip_addresses": [
+        "192.168.0.4"
+    ],
+    "hw_address": "A4:13:4E:51:6E:D5",
+    "user_data": {
+        "name": "Luxul Video Switch"
+    },
+    "vendor": "Luxul ",
+    "is_jammed": false,
+    "last_status_change": "2019-11-21T04:08:14+00:00",
+    "agent_reachable": true,
+    "names": {
+        "host": ""
+    },
+    "protocol": "IP",
+    "type": {
+        "detected_id": 50,
+        "id": 28
+    },
+    "id": 3615454
+},
+{
+    "status": "ONLINE",
+    "grace_period": 120,
+    "display_name": "DSP2-750MKII.localdomain",
+    "first_seen_on": "2019-06-13T05:30:55+00:00",
+    "importance": "FLOATING",
+    "ip_addresses": [
+        "192.168.0.254"
+    ],
+    "hw_address": "40:11:DC:00:EB:D5",
+    "vendor": "Sonance",
+    "is_jammed": false,
+    "last_status_change": "2019-11-21T06:26:44+00:00",
+    "agent_reachable": true,
+    "names": {
+        "host": "DSP2-750MKII.localdomain"
+    },
+    "protocol": "IP",
+    "id": 3620065
+},
+{
+    "status": "DOWN",
+    "grace_period": 120,
+    "display_name": "iPhone",
+    "first_seen_on": "2019-06-15T10:02:34+00:00",
+    "importance": "FLOATING",
+    "ip_addresses": [
+        "192.168.0.107"
+    ],
+    "hw_address": "F8:38:80:85:A9:81",
+    "vendor": "Apple, Inc.",
+    "is_jammed": false,
+    "last_status_change": "2019-11-16T13:23:38+00:00",
+    "agent_reachable": true,
+    "names": {
+        "dhcp": "iPhone",
+        "host": "iPhone.localdomain"
+    },
+    "protocol": "IP",
+    "model": "iPhone",
+    "type": {
+        "detected_id": 4,
+        "id": 9
+    },
+    "id": 3629323
+},
+{
+    "status": "DOWN",
+    "grace_period": 120,
+    "display_name": "Bridgets-iPhone",
+    "first_seen_on": "2019-06-22T08:30:57+00:00",
+    "importance": "FLOATING",
+    "ip_addresses": [
+        "192.168.0.161"
+    ],
+    "hw_address": "C4:98:80:17:BC:30",
+    "vendor": "Apple, Inc.",
+    "is_jammed": false,
+    "last_status_change": "2019-10-02T07:56:35+00:00",
+    "agent_reachable": true,
+    "names": {
+        "dhcp": "Bridgets-iPhone",
+        "host": ""
+    },
+    "protocol": "IP",
+    "model": "iPhone",
+    "type": {
+        "detected_id": 4,
+        "id": 9
+    },
+    "id": 3653941
+},
+{
+    "status": "DOWN",
+    "grace_period": 120,
+    "display_name": "Ash\u2019s iPhone",
+    "first_seen_on": "2019-06-23T09:06:58+00:00",
+    "importance": "FLOATING",
+    "ip_addresses": [
+        "192.168.0.190"
+    ],
+    "hw_address": "94:BF:2D:61:F3:39",
+    "vendor": "Apple, Inc.",
+    "is_jammed": false,
+    "last_status_change": "2019-11-05T11:34:13+00:00",
+    "agent_reachable": true,
+    "names": {
+        "dhcp": "Ashs-iPhone",
+        "host": "Ashs-iPhone.localdomain",
+        "bonjour": "Ash\u2019s iPhone"
+    },
+    "protocol": "IP",
+    "model": "iPhone",
+    "type": {
+        "detected_id": 4,
+        "id": 9
+    },
+    "id": 3657087
+},
+{
+    "status": "DOWN",
+    "grace_period": 120,
+    "display_name": "Vince-Surface2",
+    "first_seen_on": "2019-06-27T10:05:03+00:00",
+    "importance": "FLOATING",
+    "ip_addresses": [
+        "192.168.0.151"
+    ],
+    "hw_address": "B8:31:B5:74:BA:8D",
+    "vendor": "Microsoft Corporation",
+    "is_jammed": false,
+    "last_status_change": "2019-11-13T07:33:46+00:00",
+    "agent_reachable": true,
+    "names": {
+        "dhcp": "Vince-Surface2",
+        "host": "Vince-Surface2.localdomain"
+    },
+    "protocol": "IP",
+    "model": "Surface",
+    "type": {
+        "detected_id": 5,
+        "id": 10
+    },
+    "id": 3673327
+},
+{
+    "status": "DOWN",
+    "grace_period": 120,
+    "display_name": "Galaxy-S9",
+    "first_seen_on": "2019-07-05T06:00:30+00:00",
+    "importance": "FLOATING",
+    "ip_addresses": [
+        "192.168.0.248"
+    ],
+    "hw_address": "6C:C7:EC:A0:88:83",
+    "vendor": "Samsung",
+    "is_jammed": false,
+    "last_status_change": "2019-11-05T03:34:03+00:00",
+    "agent_reachable": true,
+    "names": {
+        "dhcp": "Galaxy-S9",
+        "host": "Galaxy-S9.localdomain"
+    },
+    "protocol": "IP",
+    "model": "Galaxy S9",
+    "type": {
+        "detected_id": 4,
+        "id": 9
+    },
+    "id": 3707784
+},
+{
+    "status": "DOWN",
+    "grace_period": 120,
+    "display_name": "iPhone.localdomain",
+    "first_seen_on": "2019-07-05T07:58:30+00:00",
+    "importance": "FLOATING",
+    "ip_addresses": [
+        "192.168.0.147"
+    ],
+    "hw_address": "F8:2D:7C:62:F5:37",
+    "vendor": "Apple, Inc.",
+    "is_jammed": false,
+    "last_status_change": "2019-07-05T12:28:06+00:00",
+    "agent_reachable": true,
+    "names": {
+        "host": "iPhone.localdomain"
+    },
+    "protocol": "IP",
+    "model": "iPhone",
+    "type": {
+        "detected_id": 4,
+        "id": 9
+    },
+    "id": 3708259
+},
+{
+    "status": "DOWN",
+    "grace_period": 120,
+    "display_name": "Max\u2019s iPad",
+    "first_seen_on": "2019-07-05T08:31:20+00:00",
+    "importance": "FLOATING",
+    "ip_addresses": [
+        "192.168.0.171"
+    ],
+    "hw_address": "14:20:5E:E5:10:D2",
+    "vendor": "Apple, Inc.",
+    "is_jammed": false,
+    "last_status_change": "2019-11-05T09:51:59+00:00",
+    "agent_reachable": true,
+    "names": {
+        "dhcp": "Maxs-iPad",
+        "host": "Maxs-iPad.localdomain",
+        "bonjour": "Max\u2019s iPad"
+    },
+    "protocol": "IP",
+    "model": "iPad",
+    "type": {
+        "detected_id": 5,
+        "id": 10
+    },
+    "id": 3708411
+},
+{
+    "status": "DOWN",
+    "grace_period": 120,
+    "display_name": "Biancas-iPhone",
+    "first_seen_on": "2019-07-06T16:10:51+00:00",
+    "importance": "FLOATING",
+    "ip_addresses": [
+        "192.168.0.170"
+    ],
+    "hw_address": "38:89:2C:92:3C:74",
+    "vendor": "Apple, Inc.",
+    "is_jammed": false,
+    "last_status_change": "2019-11-05T09:51:59+00:00",
+    "agent_reachable": true,
+    "names": {
+        "dhcp": "Biancas-iPhone",
+        "host": "Biancas-iPhone.localdomain"
+    },
+    "protocol": "IP",
+    "model": "iPhone",
+    "type": {
+        "detected_id": 4,
+        "id": 9
+    },
+    "id": 3714269
+},
+{
+    "status": "DOWN",
+    "grace_period": 120,
+    "display_name": "Couttas-iPhone",
+    "first_seen_on": "2019-07-14T08:10:37+00:00",
+    "importance": "FLOATING",
+    "ip_addresses": [
+        "192.168.0.191"
+    ],
+    "hw_address": "48:BF:6B:62:3F:44",
+    "vendor": "Apple, Inc.",
+    "is_jammed": false,
+    "last_status_change": "2019-11-05T11:30:11+00:00",
+    "agent_reachable": true,
+    "names": {
+        "dhcp": "Couttas-iPhone",
+        "host": ""
+    },
+    "protocol": "IP",
+    "model": "iPhone",
+    "type": {
+        "detected_id": 4,
+        "id": 9
+    },
+    "id": 3748753
+},
+{
+    "status": "DOWN",
+    "grace_period": 120,
+    "display_name": "Sams-iPad-2",
+    "first_seen_on": "2019-07-19T22:15:44+00:00",
+    "importance": "FLOATING",
+    "ip_addresses": [
+        "192.168.0.152"
+    ],
+    "hw_address": "20:78:F0:49:61:59",
+    "vendor": "Apple, Inc.",
+    "is_jammed": false,
+    "last_status_change": "2019-08-03T10:03:11+00:00",
+    "agent_reachable": true,
+    "names": {
+        "dhcp": "Sams-iPad-2",
+        "host": "Sams-iPad-2.localdomain"
+    },
+    "protocol": "IP",
+    "model": "iPad",
+    "type": {
+        "detected_id": 5,
+        "id": 10
+    },
+    "id": 3776997
+},
+{
+    "status": "DOWN",
+    "grace_period": 120,
+    "display_name": "Daniels-I-PHONE.localdomain",
+    "first_seen_on": "2019-07-20T00:10:47+00:00",
+    "importance": "FLOATING",
+    "ip_addresses": [
+        "192.168.0.153"
+    ],
+    "hw_address": "D4:61:DA:15:59:A3",
+    "vendor": "Apple, Inc.",
+    "is_jammed": false,
+    "last_status_change": "2019-07-20T03:55:59+00:00",
+    "agent_reachable": true,
+    "names": {
+        "host": "Daniels-I-PHONE.localdomain"
+    },
+    "protocol": "IP",
+    "model": "iPhone",
+    "type": {
+        "detected_id": 4,
+        "id": 9
+    },
+    "id": 3777148
+},
+{
+    "status": "DOWN",
+    "grace_period": 120,
+    "display_name": "Galaxy-A70",
+    "first_seen_on": "2019-07-20T07:54:09+00:00",
+    "importance": "FLOATING",
+    "ip_addresses": [
+        "192.168.0.155"
+    ],
+    "hw_address": "D4:11:A3:58:E7:B5",
+    "vendor": "Samsung",
+    "is_jammed": false,
+    "last_status_change": "2019-07-24T09:34:20+00:00",
+    "agent_reachable": true,
+    "names": {
+        "dhcp": "Galaxy-A70",
+        "host": "Galaxy-A70.localdomain"
+    },
+    "protocol": "IP",
+    "type": {
+        "detected_id": 4,
+        "id": 9
+    },
+    "id": 3778503
+},
+{
+    "status": "DOWN",
+    "grace_period": 120,
+    "display_name": "Galaxy Tab A",
+    "first_seen_on": "2019-07-20T08:49:08+00:00",
+    "importance": "FLOATING",
+    "ip_addresses": [
+        "192.168.0.233"
+    ],
+    "hw_address": "08:21:EF:6F:FF:ED",
+    "vendor": "Samsung",
+    "is_jammed": false,
+    "last_status_change": "2019-11-20T11:14:11+00:00",
+    "agent_reachable": true,
+    "names": {
+        "dhcp": "android-c41cda82ffaa45d7",
+        "host": "android-c41cda82ffaa45d7.localdomain"
+    },
+    "protocol": "IP",
+    "model": "Galaxy Tab A",
+    "type": {
+        "detected_id": 5,
+        "id": 10
+    },
+    "id": 3778647
+},
+{
+    "status": "DOWN",
+    "grace_period": 120,
+    "display_name": "Galaxy-Tab-A-2018-105",
+    "first_seen_on": "2019-07-20T11:35:18+00:00",
+    "importance": "FLOATING",
+    "ip_addresses": [
+        "192.168.0.152"
+    ],
+    "hw_address": "88:9F:6F:14:03:D6",
+    "vendor": "Samsung",
+    "is_jammed": false,
+    "last_status_change": "2019-11-20T11:14:11+00:00",
+    "agent_reachable": true,
+    "names": {
+        "dhcp": "Galaxy-Tab-A-2018-105",
+        "host": "Sams-iPad-2.localdomain"
+    },
+    "protocol": "IP",
+    "model": "Galaxy Tab A",
+    "type": {
+        "detected_id": 4,
+        "id": 9
+    },
+    "id": 3779396
+},
+{
+    "status": "DOWN",
+    "grace_period": 120,
+    "display_name": "Galaxy-Tab-A-2017",
+    "first_seen_on": "2019-07-24T08:25:20+00:00",
+    "importance": "FLOATING",
+    "ip_addresses": [
+        "192.168.0.159"
+    ],
+    "hw_address": "8C:83:E1:52:F4:DA",
+    "vendor": "Samsung",
+    "is_jammed": false,
+    "last_status_change": "2019-11-05T09:51:59+00:00",
+    "agent_reachable": true,
+    "names": {
+        "dhcp": "Galaxy-Tab-A-2017",
+        "host": "Galaxy-Tab-A-2017.localdomain"
+    },
+    "protocol": "IP",
+    "model": "Galaxy Tab A",
+    "type": {
+        "detected_id": 5,
+        "id": 10
+    },
+    "id": 3796837
+},
+{
+    "status": "ONLINE",
+    "grace_period": 120,
+    "display_name": "Sonos Boost",
+    "first_seen_on": "2019-07-31T07:29:19+00:00",
+    "importance": "VITAL",
+    "ip_addresses": [
+        "192.168.0.162"
+    ],
+    "hw_address": "B8:E9:37:0D:89:FE",
+    "user_data": {
+        "name": "Sonos Boost"
+    },
+    "vendor": "Sonos, Inc.",
+    "is_jammed": false,
+    "last_status_change": "2019-11-21T06:25:45+00:00",
+    "agent_reachable": true,
+    "names": {
+        "dhcp": "SonosZB",
+        "host": "",
+        "inspection": "Boost /Boost/",
+        "upnp": "Sonos Boost"
+    },
+    "protocol": "IP",
+    "model": "sonos boost",
+    "type": {
+        "detected_id": 228,
+        "id": 21
+    },
+    "id": 3828492
+},
+{
+    "status": "DOWN",
+    "grace_period": 120,
+    "display_name": "Emanuel-Magri-Galaxy-Tab-A.localdomain",
+    "first_seen_on": "2019-07-31T09:26:27+00:00",
+    "importance": "FLOATING",
+    "ip_addresses": [
+        "192.168.0.163"
+    ],
+    "hw_address": "B0:C5:59:53:D2:FD",
+    "vendor": "Samsung",
+    "is_jammed": false,
+    "last_status_change": "2019-07-31T09:29:32+00:00",
+    "agent_reachable": true,
+    "names": {
+        "host": "Emanuel-Magri-Galaxy-Tab-A.localdomain"
+    },
+    "protocol": "IP",
+    "model": "Galaxy Tab A 9.7",
+    "type": {
+        "detected_id": 5,
+        "id": 10
+    },
+    "id": 3828968
+},
+{
+    "status": "DOWN",
+    "grace_period": 120,
+    "display_name": "[TV] UA55J6200",
+    "first_seen_on": "2019-08-01T02:39:30+00:00",
+    "importance": "FLOATING",
+    "ip_addresses": [
+        "192.168.0.165"
+    ],
+    "hw_address": "BC:14:85:A4:E9:60",
+    "vendor": "Samsung",
+    "is_jammed": false,
+    "last_status_change": "2019-11-21T03:49:15+00:00",
+    "agent_reachable": true,
+    "names": {
+        "dhcp": "localhost",
+        "host": "",
+        "upnp": "[TV] UA55J6200"
+    },
+    "protocol": "IP",
+    "model": "UA55J6200",
+    "type": {
+        "detected_id": 8,
+        "id": 19
+    },
+    "id": 3832068
+},
+{
+    "status": "DOWN",
+    "grace_period": 120,
+    "display_name": "Sams-iPhone",
+    "first_seen_on": "2019-08-03T09:57:07+00:00",
+    "importance": "FLOATING",
+    "ip_addresses": [
+        "192.168.0.169"
+    ],
+    "hw_address": "D8:1C:79:75:D2:D1",
+    "vendor": "Apple, Inc.",
+    "is_jammed": false,
+    "last_status_change": "2019-11-05T05:36:25+00:00",
+    "agent_reachable": true,
+    "names": {
+        "dhcp": "Sams-iPhone",
+        "host": ""
+    },
+    "protocol": "IP",
+    "model": "iPhone",
+    "type": {
+        "detected_id": 4,
+        "id": 9
+    },
+    "id": 3841579
+},
+{
+    "status": "DOWN",
+    "grace_period": 120,
+    "display_name": "God",
+    "first_seen_on": "2019-08-04T07:11:08+00:00",
+    "importance": "FLOATING",
+    "ip_addresses": [
+        "192.168.0.172"
+    ],
+    "hw_address": "FC:18:3C:50:91:6A",
+    "vendor": "Apple, Inc.",
+    "is_jammed": false,
+    "last_status_change": "2019-08-26T02:03:41+00:00",
+    "agent_reachable": true,
+    "names": {
+        "dhcp": "God",
+        "host": "God.localdomain"
+    },
+    "protocol": "IP",
+    "model": "iPhone",
+    "type": {
+        "detected_id": 4,
+        "id": 9
+    },
+    "id": 3844284
+},
+{
+    "status": "DOWN",
+    "grace_period": 120,
+    "display_name": "AaronsApleWatch",
+    "first_seen_on": "2019-08-14T00:22:49+00:00",
+    "importance": "FLOATING",
+    "ip_addresses": [
+        "192.168.0.173"
+    ],
+    "hw_address": "40:4D:7F:18:A4:B9",
+    "vendor": "Apple, Inc.",
+    "is_jammed": false,
+    "last_status_change": "2019-11-21T04:39:47+00:00",
+    "agent_reachable": true,
+    "names": {
+        "dhcp": "AaronsApleWatch",
+        "host": ""
+    },
+    "protocol": "IP",
+    "model": "Apple Watch",
+    "type": {
+        "detected_id": 4,
+        "id": 9
+    },
+    "id": 3881246
+},
+{
+    "status": "DOWN",
+    "grace_period": 120,
+    "display_name": "Jazor\u2019s MacBook Pro",
+    "first_seen_on": "2019-08-14T00:44:42+00:00",
+    "importance": "FLOATING",
+    "ip_addresses": [
+        "192.168.0.174"
+    ],
+    "hw_address": "38:F9:D3:52:EC:0A",
+    "vendor": "Apple, Inc.",
+    "is_jammed": false,
+    "last_status_change": "2019-11-21T05:51:56+00:00",
+    "agent_reachable": true,
+    "names": {
+        "dhcp": "Jazors-MBP",
+        "host": "Jazors-MBP.localdomain",
+        "bonjour": "Jazor\u2019s MacBook Pro"
+    },
+    "protocol": "IP",
+    "model": "MacBook",
+    "type": {
+        "detected_id": 35,
+        "id": 4
+    },
+    "id": 3881282
+},
+{
+    "status": "DOWN",
+    "grace_period": 120,
+    "display_name": "Jazorteki-iPad",
+    "first_seen_on": "2019-08-14T03:02:57+00:00",
+    "importance": "FLOATING",
+    "ip_addresses": [
+        "192.168.0.139"
+    ],
+    "hw_address": "4C:56:9D:07:D5:8A",
+    "vendor": "Apple, Inc.",
+    "is_jammed": false,
+    "last_status_change": "2019-11-21T05:50:47+00:00",
+    "agent_reachable": true,
+    "names": {
+        "dhcp": "Jazorteki-iPad",
+        "host": ""
+    },
+    "protocol": "IP",
+    "model": "iPad",
+    "type": {
+        "detected_id": 5,
+        "id": 10
+    },
+    "id": 3881385
+},
+{
+    "status": "DOWN",
+    "grace_period": 120,
+    "display_name": "Jazors-iPhone",
+    "first_seen_on": "2019-08-14T03:02:57+00:00",
+    "importance": "FLOATING",
+    "ip_addresses": [
+        "192.168.0.138"
+    ],
+    "hw_address": "6C:4D:73:0B:80:81",
+    "vendor": "Apple, Inc.",
+    "is_jammed": false,
+    "last_status_change": "2019-09-06T01:43:39+00:00",
+    "agent_reachable": true,
+    "names": {
+        "dhcp": "Jazors-iPhone",
+        "host": "Jazors-iPhone.localdomain",
+        "bonjour": "6c:4d:73:0b:80:81@fe80::6e4d:73ff:fe0b:8081"
+    },
+    "protocol": "IP",
+    "model": "iPhone",
+    "type": {
+        "detected_id": 4,
+        "id": 9
+    },
+    "id": 3881386
+},
+{
+    "status": "DOWN",
+    "grace_period": 120,
+    "display_name": "MGMT-NUC",
+    "first_seen_on": "2019-08-15T01:13:26+00:00",
+    "importance": "FLOATING",
+    "ip_addresses": [
+        "192.168.0.141"
+    ],
+    "hw_address": "78:92:9C:F0:F5:E6",
+    "vendor": "Intel Corporate",
+    "is_jammed": false,
+    "last_status_change": "2019-08-22T06:28:36+00:00",
+    "agent_reachable": true,
+    "names": {
+        "dhcp": "MGMT-NUC",
+        "host": "MGMT-NUC.localdomain"
+    },
+    "protocol": "IP",
+    "type": {
+        "detected_id": 36,
+        "id": 31
+    },
+    "id": 3885810
+},
+{
+    "status": "ONLINE",
+    "grace_period": 120,
+    "display_name": "Smart Voice Bridge 2",
+    "first_seen_on": "2019-08-20T22:45:30+00:00",
+    "importance": "VITAL",
+    "ip_addresses": [
+        "192.168.0.220"
+    ],
+    "hw_address": "B8:27:EB:85:B9:59",
+    "user_data": {
+        "type": 52,
+        "name": "Smart Voice Bridge 2"
+    },
+    "vendor": "Raspberry Pi Foundation",
+    "is_jammed": false,
+    "last_status_change": "2019-11-21T06:26:44+00:00",
+    "agent_reachable": true,
+    "names": {
+        "dhcp": "smartvoicebridge",
+        "host": "smartvoicebridge.localdomain"
+    },
+    "protocol": "IP",
+    "type": {
+        "detected_id": 122,
+        "id": 24
+    },
+    "id": 3910551
+},
+{
+    "status": "ONLINE",
+    "grace_period": 120,
+    "display_name": "Smart Voice Bridge 1",
+    "first_seen_on": "2019-08-20T22:45:30+00:00",
+    "importance": "FLOATING",
+    "ip_addresses": [
+        "192.168.0.221"
+    ],
+    "hw_address": "B8:27:EB:B1:7E:8A",
+    "user_data": {
+        "type": 52,
+        "name": "Smart Voice Bridge 1"
+    },
+    "vendor": "Raspberry Pi Foundation",
+    "is_jammed": false,
+    "last_status_change": "2019-11-21T06:25:45+00:00",
+    "agent_reachable": true,
+    "names": {
+        "dhcp": "smartvoicebridge",
+        "host": "Apple-TV-2.localdomain"
+    },
+    "protocol": "IP",
+    "type": {
+        "detected_id": 122,
+        "id": 24
+    },
+    "id": 3910552
+},
+{
+    "status": "DOWN",
+    "grace_period": 120,
+    "display_name": "Saturn",
+    "first_seen_on": "2019-08-20T22:46:39+00:00",
+    "importance": "FLOATING",
+    "ip_addresses": [
+        "192.168.0.144"
+    ],
+    "hw_address": "38:F9:D3:D3:F5:47",
+    "vendor": "Apple, Inc.",
+    "is_jammed": false,
+    "last_status_change": "2019-08-21T08:16:33+00:00",
+    "agent_reachable": true,
+    "names": {
+        "host": "Saturn.localdomain",
+        "bonjour": "Saturn"
+    },
+    "protocol": "IP",
+    "model": "MacBook PRO",
+    "type": {
+        "detected_id": 35,
+        "id": 4
+    },
+    "id": 3910553
+},
+{
+    "status": "DOWN",
+    "grace_period": 120,
+    "display_name": "Enceladus",
+    "first_seen_on": "2019-08-20T22:47:40+00:00",
+    "importance": "FLOATING",
+    "ip_addresses": [
+        "192.168.0.145"
+    ],
+    "hw_address": "C0:A5:3E:15:C4:EF",
+    "vendor": "Apple, Inc.",
+    "is_jammed": false,
+    "last_status_change": "2019-08-21T08:16:33+00:00",
+    "agent_reachable": true,
+    "names": {
+        "host": "Enceladus.localdomain",
+        "bonjour": "c0:a5:3e:15:c4:ef@fe80::c2a5:3eff:fe15:c4ef"
+    },
+    "protocol": "IP",
+    "type": {
+        "detected_id": 4,
+        "id": 9
+    },
+    "id": 3910554
+},
+{
+    "status": "DOWN",
+    "grace_period": 120,
+    "display_name": "Titan",
+    "first_seen_on": "2019-08-20T22:51:41+00:00",
+    "importance": "FLOATING",
+    "ip_addresses": [
+        "192.168.0.147"
+    ],
+    "hw_address": "4C:56:9D:44:57:39",
+    "vendor": "Apple, Inc.",
+    "is_jammed": false,
+    "last_status_change": "2019-08-21T08:16:33+00:00",
+    "agent_reachable": true,
+    "names": {
+        "host": "Titan.localdomain",
+        "bonjour": "4c:56:9d:44:57:39@fe80::4e56:9dff:fe44:5739"
+    },
+    "protocol": "IP",
+    "model": "iPad",
+    "type": {
+        "detected_id": 5,
+        "id": 10
+    },
+    "id": 3910556
+},
+{
+    "status": "DOWN",
+    "grace_period": 120,
+    "display_name": "Daphnis.localdomain",
+    "first_seen_on": "2019-08-20T23:02:36+00:00",
+    "importance": "FLOATING",
+    "ip_addresses": [
+        "192.168.0.146"
+    ],
+    "hw_address": "00:DB:70:20:F1:9F",
+    "vendor": "Apple, Inc.",
+    "is_jammed": false,
+    "last_status_change": "2019-08-21T08:14:27+00:00",
+    "agent_reachable": true,
+    "names": {
+        "host": "Daphnis.localdomain"
+    },
+    "protocol": "IP",
+    "model": "Apple Watch",
+    "type": {
+        "detected_id": 4,
+        "id": 9
+    },
+    "id": 3910566
+},
+{
+    "status": "ONLINE",
+    "grace_period": 120,
+    "display_name": "D'Link Switch",
+    "first_seen_on": "2019-08-22T06:32:35+00:00",
+    "importance": "VITAL",
+    "ip_addresses": [
+        "192.168.0.2"
+    ],
+    "hw_address": "78:32:1B:16:33:80",
+    "user_data": {
+        "name": "D'Link Switch"
+    },
+    "vendor": "D-Link International",
+    "is_jammed": false,
+    "last_status_change": "2019-08-22T06:32:35+00:00",
+    "agent_reachable": true,
+    "names": {
+        "host": ""
+    },
+    "protocol": "IP",
+    "type": {
+        "detected_id": 12,
+        "id": 6
+    },
+    "id": 3916173
+},
+{
+    "status": "DOWN",
+    "grace_period": 120,
+    "display_name": "Paige-A.localdomain",
+    "first_seen_on": "2019-08-25T11:50:48+00:00",
+    "importance": "FLOATING",
+    "ip_addresses": [
+        "192.168.0.125"
+    ],
+    "hw_address": "B8:41:A4:F3:4D:84",
+    "vendor": "Apple, Inc.",
+    "is_jammed": false,
+    "last_status_change": "2019-08-26T04:37:43+00:00",
+    "agent_reachable": true,
+    "names": {
+        "host": "Paige-A.localdomain"
+    },
+    "protocol": "IP",
+    "model": "iPhone",
+    "type": {
+        "detected_id": 4,
+        "id": 9
+    },
+    "id": 3929212
+},
+{
+    "status": "DOWN",
+    "grace_period": 120,
+    "display_name": "ClintsApleWatch",
+    "first_seen_on": "2019-08-25T11:53:55+00:00",
+    "importance": "FLOATING",
+    "ip_addresses": [
+        "192.168.0.128"
+    ],
+    "hw_address": "24:5B:A7:E2:A4:A5",
+    "vendor": "Apple, Inc.",
+    "is_jammed": false,
+    "last_status_change": "2019-11-05T09:41:40+00:00",
+    "agent_reachable": true,
+    "names": {
+        "dhcp": "ClintsApleWatch",
+        "host": ""
+    },
+    "protocol": "IP",
+    "model": "Apple Watch",
+    "type": {
+        "detected_id": 4,
+        "id": 9
+    },
+    "id": 3929224
+},
+{
+    "status": "DOWN",
+    "grace_period": 120,
+    "display_name": "Olivias-phone.localdomain",
+    "first_seen_on": "2019-08-25T11:53:55+00:00",
+    "importance": "FLOATING",
+    "ip_addresses": [
+        "192.168.0.126"
+    ],
+    "hw_address": "70:EF:00:C9:F3:ED",
+    "vendor": "Apple, Inc.",
+    "is_jammed": false,
+    "last_status_change": "2019-08-26T04:10:41+00:00",
+    "agent_reachable": true,
+    "names": {
+        "host": "Olivias-phone.localdomain"
+    },
+    "protocol": "IP",
+    "model": "iPhone",
+    "type": {
+        "detected_id": 4,
+        "id": 9
+    },
+    "id": 3929225
+},
+{
+    "status": "DOWN",
+    "grace_period": 120,
+    "display_name": "Hayleys-iphone.localdomain",
+    "first_seen_on": "2019-08-25T11:53:55+00:00",
+    "importance": "FLOATING",
+    "ip_addresses": [
+        "192.168.0.127"
+    ],
+    "hw_address": "C8:3C:85:89:AA:6B",
+    "vendor": "Apple, Inc.",
+    "is_jammed": false,
+    "last_status_change": "2019-08-26T02:03:41+00:00",
+    "agent_reachable": true,
+    "names": {
+        "host": "Hayleys-iphone.localdomain"
+    },
+    "protocol": "IP",
+    "model": "iPhone",
+    "type": {
+        "detected_id": 4,
+        "id": 9
+    },
+    "id": 3929226
+},
+{
+    "status": "DOWN",
+    "grace_period": 120,
+    "display_name": "iPhone.localdomain",
+    "first_seen_on": "2019-08-25T12:02:57+00:00",
+    "importance": "FLOATING",
+    "ip_addresses": [
+        "192.168.0.129"
+    ],
+    "hw_address": "48:43:7C:A2:96:37",
+    "vendor": "Apple, Inc.",
+    "is_jammed": false,
+    "last_status_change": "2019-08-26T01:40:41+00:00",
+    "agent_reachable": true,
+    "names": {
+        "host": "iPhone.localdomain"
+    },
+    "protocol": "IP",
+    "model": "iPhone",
+    "type": {
+        "detected_id": 4,
+        "id": 9
+    },
+    "id": 3929270
+},
+{
+    "status": "DOWN",
+    "grace_period": 120,
+    "display_name": "iPhone",
+    "first_seen_on": "2019-08-25T12:19:49+00:00",
+    "importance": "FLOATING",
+    "ip_addresses": [
+        "192.168.0.130"
+    ],
+    "hw_address": "B0:48:1A:8E:69:DB",
+    "vendor": "Apple, Inc.",
+    "is_jammed": false,
+    "last_status_change": "2019-08-26T03:03:43+00:00",
+    "agent_reachable": true,
+    "names": {
+        "dhcp": "iPhone",
+        "host": "iPhone-3.localdomain"
+    },
+    "protocol": "IP",
+    "model": "iPhone",
+    "type": {
+        "detected_id": 4,
+        "id": 9
+    },
+    "id": 3929316
+},
+{
+    "status": "DOWN",
+    "grace_period": 120,
+    "display_name": "Tay-iphone.localdomain",
+    "first_seen_on": "2019-08-25T12:45:47+00:00",
+    "importance": "FLOATING",
+    "ip_addresses": [
+        "192.168.0.131"
+    ],
+    "hw_address": "70:70:0D:79:B8:29",
+    "vendor": "Apple, Inc.",
+    "is_jammed": false,
+    "last_status_change": "2019-08-26T04:09:42+00:00",
+    "agent_reachable": true,
+    "names": {
+        "host": "Tay-iphone.localdomain"
+    },
+    "protocol": "IP",
+    "model": "iPhone",
+    "type": {
+        "detected_id": 4,
+        "id": 9
+    },
+    "id": 3929395
+},
+{
+    "status": "DOWN",
+    "grace_period": 120,
+    "display_name": "Bridget-iPh7",
+    "first_seen_on": "2019-08-25T13:37:54+00:00",
+    "importance": "FLOATING",
+    "ip_addresses": [
+        "192.168.0.132"
+    ],
+    "hw_address": "B8:53:AC:C5:BF:A4",
+    "vendor": "Apple, Inc.",
+    "is_jammed": false,
+    "last_status_change": "2019-08-26T03:03:43+00:00",
+    "agent_reachable": true,
+    "names": {
+        "host": "Bridget-iPh7.localdomain",
+        "bonjour": "b8:53:ac:c5:bf:a4@fe80::ba53:acff:fec5:bfa4"
+    },
+    "protocol": "IP",
+    "model": "iPhone",
+    "type": {
+        "detected_id": 4,
+        "id": 9
+    },
+    "id": 3929749
+},
+{
+    "status": "DOWN",
+    "grace_period": 120,
+    "display_name": "Bens-iPhone-X",
+    "first_seen_on": "2019-08-31T08:21:37+00:00",
+    "importance": "FLOATING",
+    "ip_addresses": [
+        "192.168.0.134"
+    ],
+    "hw_address": "68:EF:43:C1:AC:16",
+    "vendor": "Apple, Inc.",
+    "is_jammed": false,
+    "last_status_change": "2019-11-05T07:30:08+00:00",
+    "agent_reachable": true,
+    "names": {
+        "dhcp": "Bens-iPhone-X",
+        "host": ""
+    },
+    "protocol": "IP",
+    "model": "iPhone",
+    "type": {
+        "detected_id": 4,
+        "id": 9
+    },
+    "id": 3955344
+},
+{
+    "status": "DOWN",
+    "grace_period": 120,
+    "display_name": "Taras-iPhone",
+    "first_seen_on": "2019-08-31T08:24:50+00:00",
+    "importance": "FLOATING",
+    "ip_addresses": [
+        "192.168.0.115"
+    ],
+    "hw_address": "A4:D9:31:26:1C:A1",
+    "vendor": "Apple, Inc.",
+    "is_jammed": false,
+    "last_status_change": "2019-11-05T07:31:10+00:00",
+    "agent_reachable": true,
+    "names": {
+        "dhcp": "Taras-iPhone",
+        "host": ""
+    },
+    "protocol": "IP",
+    "model": "iPhone",
+    "type": {
+        "detected_id": 4,
+        "id": 9
+    },
+    "id": 3955349
+},
+{
+    "status": "DOWN",
+    "grace_period": 120,
+    "display_name": "LGwebOSTV",
+    "first_seen_on": "2019-09-28T12:33:31+00:00",
+    "importance": "FLOATING",
+    "ip_addresses": [
+        "192.168.0.116"
+    ],
+    "hw_address": "2C:2B:F9:0C:9F:D0",
+    "vendor": "LG Innotek",
+    "is_jammed": false,
+    "last_status_change": "2019-11-21T20:32:45+00:00",
+    "agent_reachable": true,
+    "names": {
+        "dhcp": "LGwebOSTV",
+        "host": "",
+        "upnp": "[LG] webOS TV UK6340PTF"
+    },
+    "protocol": "IP",
+    "type": {
+        "detected_id": 14,
+        "id": 20
+    },
+    "id": 4066226
+},
+{
+    "status": "DOWN",
+    "grace_period": 120,
+    "display_name": "iPod",
+    "first_seen_on": "2019-10-02T21:26:19+00:00",
+    "importance": "FLOATING",
+    "ip_addresses": [
+        "192.168.0.117"
+    ],
+    "hw_address": "FC:D8:48:54:B2:11",
+    "vendor": "Apple, Inc.",
+    "is_jammed": false,
+    "last_status_change": "2019-10-03T07:00:09+00:00",
+    "agent_reachable": true,
+    "names": {
+        "host": ""
+    },
+    "protocol": "IP",
+    "model": "iPod",
+    "type": {
+        "detected_id": 4,
+        "id": 9
+    },
+    "id": 4081705
+},
+{
+    "status": "DOWN",
+    "grace_period": 120,
+    "display_name": "DC:A4:CA:80:DE:84",
+    "first_seen_on": "2019-10-04T07:21:45+00:00",
+    "importance": "FLOATING",
+    "ip_addresses": [
+        "192.168.0.118"
+    ],
+    "hw_address": "DC:A4:CA:80:DE:84",
+    "vendor": "Apple, Inc.",
+    "is_jammed": false,
+    "last_status_change": "2019-10-04T14:28:35+00:00",
+    "agent_reachable": true,
+    "names": {
+        "host": ""
+    },
+    "protocol": "IP",
+    "type": {
+        "detected_id": 5,
+        "id": 10
+    },
+    "id": 4087399
+},
+{
+    "status": "DOWN",
+    "grace_period": 120,
+    "display_name": "88:19:08:32:A7:69",
+    "first_seen_on": "2019-10-04T07:58:41+00:00",
+    "importance": "FLOATING",
+    "ip_addresses": [
+        "192.168.0.120"
+    ],
+    "hw_address": "88:19:08:32:A7:69",
+    "vendor": "Apple, Inc.",
+    "is_jammed": false,
+    "last_status_change": "2019-10-04T14:28:35+00:00",
+    "agent_reachable": true,
+    "names": {
+        "host": ""
+    },
+    "protocol": "IP",
+    "type": {
+        "detected_id": 4,
+        "id": 9
+    },
+    "id": 4087563
+},
+{
+    "status": "DOWN",
+    "grace_period": 120,
+    "display_name": "paige-iphone",
+    "first_seen_on": "2019-10-04T07:58:41+00:00",
+    "importance": "FLOATING",
+    "ip_addresses": [
+        "192.168.0.119"
+    ],
+    "hw_address": "B0:70:2D:CA:C8:BA",
+    "vendor": "Apple, Inc.",
+    "is_jammed": false,
+    "last_status_change": "2019-11-05T07:31:10+00:00",
+    "agent_reachable": true,
+    "names": {
+        "dhcp": "paige-iphone",
+        "host": ""
+    },
+    "protocol": "IP",
+    "type": {
+        "detected_id": 4,
+        "id": 9
+    },
+    "id": 4087564
+},
+{
+    "status": "DOWN",
+    "grace_period": 120,
+    "display_name": "iPhone",
+    "first_seen_on": "2019-10-04T12:18:27+00:00",
+    "importance": "FLOATING",
+    "ip_addresses": [
+        "192.168.0.121"
+    ],
+    "hw_address": "A4:D9:31:D9:16:92",
+    "vendor": "Apple, Inc.",
+    "is_jammed": false,
+    "last_status_change": "2019-11-05T09:36:38+00:00",
+    "agent_reachable": true,
+    "names": {
+        "dhcp": "iPhone",
+        "host": ""
+    },
+    "protocol": "IP",
+    "type": {
+        "detected_id": 4,
+        "id": 9
+    },
+    "id": 4088545
+},
+{
+    "status": "DOWN",
+    "grace_period": 120,
+    "display_name": "LisaDavsCurrent",
+    "first_seen_on": "2019-10-12T00:47:41+00:00",
+    "importance": "FLOATING",
+    "ip_addresses": [
+        "192.168.0.122"
+    ],
+    "hw_address": "60:30:D4:C5:10:C4",
+    "vendor": "Apple, Inc.",
+    "is_jammed": false,
+    "last_status_change": "2019-11-05T05:49:06+00:00",
+    "agent_reachable": true,
+    "names": {
+        "dhcp": "LisaDavsCurrent",
+        "host": ""
+    },
+    "protocol": "IP",
+    "model": "iPhone",
+    "type": {
+        "detected_id": 4,
+        "id": 9
+    },
+    "id": 4116456
+},
+{
+    "status": "DOWN",
+    "grace_period": 120,
+    "display_name": "LAPTOP-18740",
+    "first_seen_on": "2019-10-19T03:39:45+00:00",
+    "importance": "FLOATING",
+    "ip_addresses": [
+        "192.168.0.123"
+    ],
+    "hw_address": "34:E1:2D:32:87:0A",
+    "vendor": "Intel Corporate",
+    "is_jammed": false,
+    "last_status_change": "2019-10-31T07:40:37+00:00",
+    "agent_reachable": true,
+    "names": {
+        "dhcp": "LAPTOP-18740",
+        "host": "LAPTOP-18740.localdomain"
+    },
+    "protocol": "IP",
+    "type": {
+        "detected_id": 36,
+        "id": 31
+    },
+    "id": 4142701
+},
+{
+    "status": "DOWN",
+    "grace_period": 120,
+    "display_name": "Galaxy-A70",
+    "first_seen_on": "2019-10-19T06:15:48+00:00",
+    "importance": "FLOATING",
+    "ip_addresses": [
+        "192.168.0.101"
+    ],
+    "hw_address": "64:89:F1:82:CE:F3",
+    "vendor": "Samsung",
+    "is_jammed": false,
+    "last_status_change": "2019-11-20T11:14:11+00:00",
+    "agent_reachable": true,
+    "names": {
+        "dhcp": "Galaxy-A70",
+        "host": "Galaxy-A70.localdomain"
+    },
+    "protocol": "IP",
+    "type": {
+        "detected_id": 4,
+        "id": 9
+    },
+    "id": 4142871
+},
+{
+    "status": "DOWN",
+    "grace_period": 120,
+    "display_name": "HUAWEI_nova_3e-5e628d5ac3.localdomain",
+    "first_seen_on": "2019-10-19T06:32:59+00:00",
+    "importance": "FLOATING",
+    "ip_addresses": [
+        "192.168.0.232"
+    ],
+    "hw_address": "34:2E:B6:4D:B7:A5",
+    "vendor": "HUAWEI TECHNOLOGIES CO.,LTD",
+    "is_jammed": false,
+    "last_status_change": "2019-10-19T10:48:11+00:00",
+    "agent_reachable": true,
+    "names": {
+        "host": "HUAWEI_nova_3e-5e628d5ac3.localdomain"
+    },
+    "protocol": "IP",
+    "type": {
+        "detected_id": 4,
+        "id": 9
+    },
+    "id": 4142898
+},
+{
+    "status": "DOWN",
+    "grace_period": 120,
+    "display_name": "android-8814954dacafc3d1.localdomain",
+    "first_seen_on": "2019-10-19T09:20:05+00:00",
+    "importance": "FLOATING",
+    "ip_addresses": [
+        "192.168.0.103"
+    ],
+    "hw_address": "D0:87:E2:6F:16:46",
+    "vendor": "Samsung",
+    "is_jammed": false,
+    "last_status_change": "2019-10-19T12:52:47+00:00",
+    "agent_reachable": true,
+    "names": {
+        "host": "android-8814954dacafc3d1.localdomain"
+    },
+    "protocol": "IP",
+    "type": {
+        "detected_id": 4,
+        "id": 9
+    },
+    "id": 4143431
+},
+{
+    "status": "DOWN",
+    "grace_period": 120,
+    "display_name": "Maxs-iPhone",
+    "first_seen_on": "2019-10-19T09:35:01+00:00",
+    "importance": "FLOATING",
+    "ip_addresses": [
+        "192.168.0.104"
+    ],
+    "hw_address": "C8:1E:E7:B9:04:D1",
+    "vendor": "Apple, Inc.",
+    "is_jammed": false,
+    "last_status_change": "2019-11-05T09:51:59+00:00",
+    "agent_reachable": true,
+    "names": {
+        "dhcp": "Maxs-iPhone",
+        "host": "Maxs-iPhone.localdomain"
+    },
+    "protocol": "IP",
+    "model": "iPhone",
+    "type": {
+        "detected_id": 4,
+        "id": 9
+    },
+    "id": 4143468
+},
+{
+    "status": "DOWN",
+    "grace_period": 120,
+    "display_name": "Judy.localdomain",
+    "first_seen_on": "2019-10-19T11:45:43+00:00",
+    "importance": "FLOATING",
+    "ip_addresses": [
+        "192.168.0.106"
+    ],
+    "hw_address": "A4:D1:8C:2D:6A:0E",
+    "vendor": "Apple, Inc.",
+    "is_jammed": false,
+    "last_status_change": "2019-10-19T12:48:26+00:00",
+    "agent_reachable": true,
+    "names": {
+        "host": "Judy.localdomain"
+    },
+    "protocol": "IP",
+    "model": "iPad",
+    "type": {
+        "detected_id": 5,
+        "id": 10
+    },
+    "id": 4143909
+},
+{
+    "status": "DOWN",
+    "grace_period": 120,
+    "display_name": "iPhone",
+    "first_seen_on": "2019-10-25T06:48:50+00:00",
+    "importance": "FLOATING",
+    "ip_addresses": [
+        "192.168.0.108"
+    ],
+    "hw_address": "CC:66:0A:66:F1:68",
+    "vendor": "Apple, Inc.",
+    "is_jammed": false,
+    "last_status_change": "2019-10-25T09:49:08+00:00",
+    "agent_reachable": true,
+    "names": {
+        "host": ""
+    },
+    "protocol": "IP",
+    "model": "iPhone",
+    "type": {
+        "detected_id": 4,
+        "id": 9
+    },
+    "id": 4164984
+},
+{
+    "status": "DOWN",
+    "grace_period": 120,
+    "display_name": "Taya4FL.localdomain",
+    "first_seen_on": "2019-10-25T07:48:57+00:00",
+    "importance": "FLOATING",
+    "ip_addresses": [
+        "192.168.0.109"
+    ],
+    "hw_address": "C4:2A:D0:AF:29:8A",
+    "vendor": "Apple, Inc.",
+    "is_jammed": false,
+    "last_status_change": "2019-10-25T09:51:07+00:00",
+    "agent_reachable": true,
+    "names": {
+        "host": "Taya4FL.localdomain"
+    },
+    "protocol": "IP",
+    "model": "iPad",
+    "type": {
+        "detected_id": 5,
+        "id": 10
+    },
+    "id": 4165196
+},
+{
+    "status": "DOWN",
+    "grace_period": 120,
+    "display_name": "[LG] webOS TV UK6340PTF",
+    "first_seen_on": "2019-10-25T10:03:12+00:00",
+    "importance": "FLOATING",
+    "ip_addresses": [
+        "192.168.0.110"
+    ],
+    "hw_address": "2C:2B:F9:05:FC:9E",
+    "vendor": "LG Innotek",
+    "is_jammed": false,
+    "last_status_change": "2019-11-21T03:48:15+00:00",
+    "agent_reachable": true,
+    "names": {
+        "dhcp": "LGwebOSTV",
+        "host": "",
+        "bonjour": "[LG] webOS TV UK6340PTF",
+        "upnp": "[LG] webOS TV UK6340PTF"
+    },
+    "protocol": "IP",
+    "type": {
+        "detected_id": 14,
+        "id": 20
+    },
+    "id": 4165617
+},
+{
+    "status": "DOWN",
+    "grace_period": 120,
+    "display_name": "iPhone",
+    "first_seen_on": "2019-10-26T07:04:39+00:00",
+    "importance": "FLOATING",
+    "ip_addresses": [
+        "192.168.0.112"
+    ],
+    "hw_address": "E4:9A:79:1C:1C:3D",
+    "vendor": "Apple, Inc.",
+    "is_jammed": false,
+    "last_status_change": "2019-10-26T23:06:45+00:00",
+    "agent_reachable": true,
+    "names": {
+        "host": ""
+    },
+    "protocol": "IP",
+    "model": "iPhone",
+    "type": {
+        "detected_id": 4,
+        "id": 9
+    },
+    "id": 4168779
+},
+{
+    "status": "DOWN",
+    "grace_period": 120,
+    "display_name": "yourenomateeee2",
+    "first_seen_on": "2019-11-04T23:18:12+00:00",
+    "importance": "FLOATING",
+    "ip_addresses": [
+        "192.168.0.113"
+    ],
+    "hw_address": "CC:2D:B7:30:4B:91",
+    "vendor": "Apple, Inc.",
+    "is_jammed": false,
+    "last_status_change": "2019-11-05T09:51:59+00:00",
+    "agent_reachable": true,
+    "names": {
+        "dhcp": "yourenomateeee2",
+        "host": "yourenomateeee2.localdomain"
+    },
+    "protocol": "IP",
+    "type": {
+        "detected_id": 4,
+        "id": 9
+    },
+    "id": 4203765
+},
+{
+    "status": "DOWN",
+    "grace_period": 120,
+    "display_name": "iPod",
+    "first_seen_on": "2019-11-04T23:51:13+00:00",
+    "importance": "FLOATING",
+    "ip_addresses": [
+        "192.168.0.188"
+    ],
+    "hw_address": "F0:76:6F:26:A3:A1",
+    "vendor": "Apple, Inc.",
+    "is_jammed": false,
+    "last_status_change": "2019-11-05T07:28:05+00:00",
+    "agent_reachable": true,
+    "names": {
+        "host": ""
+    },
+    "protocol": "IP",
+    "model": "iPod",
+    "type": {
+        "detected_id": 4,
+        "id": 9
+    },
+    "id": 4203803
+},
+{
+    "status": "DOWN",
+    "grace_period": 120,
+    "display_name": "Galaxy-Tab-A-2018-105.localdomain",
+    "first_seen_on": "2019-11-05T01:14:34+00:00",
+    "importance": "FLOATING",
+    "ip_addresses": [
+        "192.168.0.157"
+    ],
+    "hw_address": "04:52:F3:D7:CD:9D",
+    "vendor": "Apple, Inc.",
+    "is_jammed": false,
+    "last_status_change": "2019-11-05T09:39:37+00:00",
+    "agent_reachable": true,
+    "names": {
+        "host": "Galaxy-Tab-A-2018-105.localdomain"
+    },
+    "protocol": "IP",
+    "model": "iPad",
+    "type": {
+        "detected_id": 5,
+        "id": 10
+    },
+    "id": 4203939
+},
+{
+    "status": "DOWN",
+    "grace_period": 120,
+    "display_name": "iPhone",
+    "first_seen_on": "2019-11-05T01:14:34+00:00",
+    "importance": "FLOATING",
+    "ip_addresses": [
+        "192.168.0.156"
+    ],
+    "hw_address": "60:30:D4:C8:6A:9C",
+    "vendor": "Apple, Inc.",
+    "is_jammed": false,
+    "last_status_change": "2019-11-05T05:48:11+00:00",
+    "agent_reachable": true,
+    "names": {
+        "host": ""
+    },
+    "protocol": "IP",
+    "model": "iPhone",
+    "type": {
+        "detected_id": 4,
+        "id": 9
+    },
+    "id": 4203940
+},
+{
+    "status": "DOWN",
+    "grace_period": 120,
+    "display_name": "iPhone",
+    "first_seen_on": "2019-11-05T01:16:31+00:00",
+    "importance": "FLOATING",
+    "ip_addresses": [
+        "192.168.0.153"
+    ],
+    "hw_address": "E0:89:7E:24:BB:75",
+    "vendor": "Apple, Inc.",
+    "is_jammed": false,
+    "last_status_change": "2019-11-05T05:48:11+00:00",
+    "agent_reachable": true,
+    "names": {
+        "host": ""
+    },
+    "protocol": "IP",
+    "model": "iPhone",
+    "type": {
+        "detected_id": 4,
+        "id": 9
+    },
+    "id": 4203941
+},
+{
+    "status": "DOWN",
+    "grace_period": 120,
+    "display_name": "Apple Watch",
+    "first_seen_on": "2019-11-05T03:08:05+00:00",
+    "importance": "FLOATING",
+    "ip_addresses": [
+        "192.168.0.247"
+    ],
+    "hw_address": "18:55:E3:C8:E1:D1",
+    "vendor": "Apple, Inc.",
+    "is_jammed": false,
+    "last_status_change": "2019-11-05T05:37:37+00:00",
+    "agent_reachable": true,
+    "names": {
+        "host": ""
+    },
+    "protocol": "IP",
+    "model": "Apple Watch",
+    "type": {
+        "detected_id": 4,
+        "id": 9
+    },
+    "id": 4204250
+},
+{
+    "status": "DOWN",
+    "grace_period": 120,
+    "display_name": "AaronWorkiPhone",
+    "first_seen_on": "2019-11-06T22:02:58+00:00",
+    "importance": "FLOATING",
+    "ip_addresses": [
+        "192.168.0.219"
+    ],
+    "hw_address": "F0:24:75:C2:14:FA",
+    "vendor": "Apple, Inc.",
+    "is_jammed": false,
+    "last_status_change": "2019-11-12T05:00:39+00:00",
+    "agent_reachable": true,
+    "names": {
+        "dhcp": "AaronWorkiPhone",
+        "host": ""
+    },
+    "protocol": "IP",
+    "model": "iPhone",
+    "type": {
+        "detected_id": 4,
+        "id": 9
+    },
+    "id": 4211011
+},
+{
+    "status": "DOWN",
+    "grace_period": 120,
+    "display_name": "Jazors-iPhone",
+    "first_seen_on": "2019-11-06T22:41:05+00:00",
+    "importance": "FLOATING",
+    "ip_addresses": [
+        "192.168.0.163"
+    ],
+    "hw_address": "F0:C3:71:D8:93:81",
+    "vendor": "Apple, Inc.",
+    "is_jammed": false,
+    "last_status_change": "2019-11-21T05:52:45+00:00",
+    "agent_reachable": true,
+    "names": {
+        "dhcp": "Jazors-iPhone",
+        "host": "Emanuel-Magri-Galaxy-Tab-A.localdomain"
+    },
+    "protocol": "IP",
+    "model": "iPhone",
+    "type": {
+        "detected_id": 4,
+        "id": 9
+    },
+    "id": 4211072
+},
+{
+    "status": "DOWN",
+    "grace_period": 120,
+    "display_name": "JazormapleWatch",
+    "first_seen_on": "2019-11-07T01:58:48+00:00",
+    "importance": "FLOATING",
+    "ip_addresses": [
+        "192.168.0.160"
+    ],
+    "hw_address": "18:55:E3:A3:00:A0",
+    "vendor": "Apple, Inc.",
+    "is_jammed": false,
+    "last_status_change": "2019-11-21T02:09:49+00:00",
+    "agent_reachable": true,
+    "names": {
+        "dhcp": "JazormapleWatch",
+        "host": ""
+    },
+    "protocol": "IP",
+    "type": {
+        "detected_id": 107,
+        "id": 13
+    },
+    "id": 4211269
+},
+{
+    "status": "DOWN",
+    "grace_period": 120,
+    "display_name": "iPhone",
+    "first_seen_on": "2019-11-16T07:05:47+00:00",
+    "importance": "FLOATING",
+    "ip_addresses": [
+        "192.168.0.166"
+    ],
+    "hw_address": "9C:E6:5E:3A:88:B1",
+    "vendor": "Apple, Inc.",
+    "is_jammed": false,
+    "last_status_change": "2019-11-16T13:23:38+00:00",
+    "agent_reachable": true,
+    "names": {
+        "host": ""
+    },
+    "protocol": "IP",
+    "model": "iPhone",
+    "type": {
+        "detected_id": 4,
+        "id": 9
+    },
+    "id": 4246064
+},
+{
+    "status": "DOWN",
+    "grace_period": 120,
+    "display_name": "Aaron Work iPhone",
+    "first_seen_on": "2019-11-20T23:51:01+00:00",
+    "importance": "FLOATING",
+    "ip_addresses": [
+        "192.168.0.114"
+    ],
+    "hw_address": "B8:53:AC:9C:0E:7C",
+    "vendor": "Apple, Inc.",
+    "is_jammed": false,
+    "last_status_change": "2019-11-21T05:51:56+00:00",
+    "agent_reachable": true,
+    "names": {
+        "host": "",
+        "bonjour": "Aaron Work iPhone"
+    },
+    "protocol": "IP",
+    "model": "iPhone",
+    "type": {
+        "detected_id": 4,
+        "id": 9
+    },
+    "id": 4261475
+},
+{
+    "status": "ONLINE",
+    "grace_period": 120,
+    "display_name": "HIKVISION DS-2CD2632F-I - 478329142",
+    "first_seen_on": "2019-11-21T04:03:35+00:00",
+    "importance": "VITAL",
+    "ip_addresses": [
+        "192.168.0.69"
+    ],
+    "hw_address": "44:19:B6:6E:16:98",
+    "vendor": "Hangzhou Hikvision Digital Technology Co.,Ltd.",
+    "is_jammed": false,
+    "last_status_change": "2019-11-21T06:25:45+00:00",
+    "agent_reachable": true,
+    "names": {
+        "host": "",
+        "bonjour": "HIKVISION DS-2CD2632F-I - 478329142",
+        "upnp": "HIKVISION DS-2CD2632F-I - 478329142"
+    },
+    "protocol": "IP",
+    "type": {
+        "detected_id": 199,
+        "id": 22
+    },
+    "id": 4261737
+},
+{
+    "status": "DOWN",
+    "grace_period": 120,
+    "display_name": "DIANAMAsiPhone2.localdomain",
+    "first_seen_on": "2019-11-21T11:15:06+00:00",
+    "importance": "FLOATING",
+    "ip_addresses": [
+        "192.168.0.251"
+    ],
+    "hw_address": "74:8D:08:00:D5:91",
+    "vendor": "Apple, Inc.",
+    "is_jammed": false,
+    "last_status_change": "2019-11-21T11:21:57+00:00",
+    "agent_reachable": true,
+    "names": {
+        "host": "DIANAMAsiPhone2.localdomain"
+    },
+    "protocol": "IP",
+    "model": "iPhone",
+    "type": {
+        "detected_id": 4,
+        "id": 9
+    },
+    "id": 4263247
+}
